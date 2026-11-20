@@ -29,12 +29,12 @@ The framework is currently optimized for markdown-structured documents and align
 
 ### Key Features
 
-✅ **Dual Parsing Modes**: Hierarchical (structure-aware) vs Flat (sequential)  
-✅ **Multilingual Coreference**: Cross-lingual entity resolution  
-✅ **Ontology Alignment**: Domain-specific schema integration  
-✅ **Quality Filtering**: Adaptive semantic-based refinement  
-✅ **Flexible LLM Backend**: Ollama (default, local) or OpenAI API  
-✅ **GPU Acceleration**: Automatic CUDA detection for RTX GPUs  
+- **Dual Parsing Modes**: Hierarchical (structure-aware) vs Flat (sequential)  
+- **Multilingual Coreference**: Cross-lingual entity resolution  
+- **Ontology Alignment**: Domain-specific schema integration  
+- **Quality Filtering**: Adaptive semantic-based refinement  
+- **Flexible LLM Backend**: Ollama (default, local) or OpenAI API  
+- **GPU Acceleration**: Automatic CUDA detection for RTX GPUs  
 
 ---
 
