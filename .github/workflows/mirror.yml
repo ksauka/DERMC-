@@ -1,0 +1,111 @@
+
+name: Mirror repository to LESSEN
+
+on:
+  push:
+    branches:
+      - '**'
+    tags:
+      - '**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lessen-mirror
+  cancel-in-progress: false
+
+env:
+  SOURCE_OWNER: ksauka
+  DEST_ORG: LESSEN-Project
+  REPO_NAME: DERMC-
+
+jobs:
+  mirror:
+    if: github.repository_owner != 'LESSEN-Project'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Verify source repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          expected="${SOURCE_OWNER}/${REPO_NAME}"
+
+          if [[ "$GITHUB_REPOSITORY" != "$expected" ]]; then
+            echo "::error::Unexpected source repository"
+            exit 1
+          fi
+
+      - name: Checkout full Git history
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Configure SSH authentication
+        shell: bash
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.MIRROR_REPO_SSH_KEY }}
+        run: |
+          set -euo pipefail
+
+          test -n "$SSH_PRIVATE_KEY"
+
+          mkdir -p "$HOME/.ssh"
+          chmod 700 "$HOME/.ssh"
+
+          printf '%s\n' "$SSH_PRIVATE_KEY" \
+            > "$HOME/.ssh/lessen_mirror"
+          chmod 600 "$HOME/.ssh/lessen_mirror"
+
+          # Check that the private key is readable.
+          ssh-keygen -y \
+            -f "$HOME/.ssh/lessen_mirror" \
+            > /dev/null
+
+          # Verify GitHub's official Ed25519 host key.
+          ssh-keyscan -t ed25519 github.com \
+            2>/dev/null > "$HOME/.ssh/known_hosts"
+
+          actual=$(ssh-keygen -lf \
+            "$HOME/.ssh/known_hosts" \
+            -E sha256 | awk '{print $2}')
+
+          expected="SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU"
+
+          test "$actual" = "$expected"
+          chmod 600 "$HOME/.ssh/known_hosts"
+
+          echo "GIT_SSH_COMMAND=ssh -i $HOME/.ssh/lessen_mirror -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes" \
+            >> "$GITHUB_ENV"
+
+      - name: Push source branches and tags
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          destination="git@github.com:${DEST_ORG}/${REPO_NAME}.git"
+          git remote add mirror "$destination"
+
+          # Push each source branch without force.
+          while IFS= read -r ref; do
+            branch="${ref#refs/remotes/origin/}"
+
+            # Ignore symbolic origin/HEAD.
+            [[ "$branch" == "HEAD" ]] && continue
+
+            echo "Mirroring branch: $branch"
+            git push mirror \
+              "$ref:refs/heads/$branch"
+          done < <(
+            git for-each-ref \
+              --format='%(refname)' \
+              refs/remotes/origin/
+          )
+
+          # Push all available tags.
+          git push mirror --tags
+
+          echo "Repository mirroring completed."
