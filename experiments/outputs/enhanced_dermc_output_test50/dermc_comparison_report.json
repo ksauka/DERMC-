@@ -1,0 +1,27 @@
+{
+  "pipeline": "ERDRC+ Enhanced",
+  "timestamp": "2026-01-04T20:07:28.936745+00:00",
+  "comparison_summary": {
+    "hierarchical_mode": {
+      "processing_time_seconds": 4922.0415558815,
+      "total_documents": 50,
+      "total_triplets": 653,
+      "avg_triplets_per_doc": 13.06
+    },
+    "flat_mode": {
+      "processing_time_seconds": 3424.031617164612,
+      "total_documents": 50,
+      "total_triplets": 645,
+      "avg_triplets_per_doc": 12.9
+    }
+  },
+  "performance_analysis": {
+    "triplet_extraction_difference": 8,
+    "processing_time_difference_seconds": 1498.0099387168884,
+    "efficiency_ratio": 0.6956527242386099
+  },
+  "recommendations": {
+    "preferred_mode": "hierarchical",
+    "reasoning": "Hierarchical mode extracts more triplets"
+  }
+}

@@ -1,0 +1,367 @@
+Doc ID,Answer ID,Subject,Relation,Object,Hierarchy
+doc_1,ans_1,Items,has_requirement,unused,Eligibility
+doc_1,ans_1,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_1,ans_1,items,are_unused,true,Eligibility
+doc_1,ans_1,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_1,ans_1,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_1,ans_1,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_1,ans_1,Contact Support,supports_return,support@example.com,#NAME?/Contact
+doc_1,ans_1,Contact support@example.com,uses_support_channel,+1-800-123-4567,#NAME?/Contact
+doc_9,ans_9,Items,has_requirement,unused,Eligibility
+doc_9,ans_9,items,must_be_returned_within_30_days,within 30 days,Eligibility
+doc_9,ans_9,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_9,ans_9,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_9,ans_9,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_9,ans_9,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_9,ans_9,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_9,ans_9,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_9,ans_9,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_9,ans_9,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_17,ans_17,Items,has_requirement,unused,Eligibility
+doc_17,ans_17,items,must be returned within,30 days,Eligibility
+doc_17,ans_17,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_17,ans_17,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_17,ans_17,perishable goods,excluded by,returns policy,#NAME?/Exceptions
+doc_17,ans_17,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_17,ans_17,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_25,ans_25,tax (Teacher recent regio...),applies_to,paper,Eligibility
+doc_25,ans_25,painting class tax,charges_tax,individual consumer,Eligibility
+doc_25,ans_25,Items,has_requirement,unused,Eligibility
+doc_25,ans_25,Must be returned within 30 days,supports_return,Order #16064,Eligibility
+doc_25,ans_25,Talk,establish,value,Refund Method
+doc_25,ans_25,listen,establish,value,Refund Method
+doc_25,ans_25,debate,establish,value,Refund Method
+doc_25,ans_25,Processing time for data processing,applies_to,5-7 business days,#NAME?
+doc_25,ans_25,#NAME?,includes_warranty,false,#NAME?
+doc_25,ans_25,Digital products,do not grant refunds,are non-refundable,#NAME?/Exceptions
+doc_25,ans_25,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_25,ans_25,Contact Information,supports_return,support@example.com,#NAME?/Contact
+doc_25,ans_25,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_25,ans_25,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_25,ans_25,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_33,ans_33,items,has_requirement,unused,Eligibility
+doc_33,ans_33,must be returned within 30 days,has_requirement,unused,Eligibility
+doc_33,ans_33,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_33,ans_33,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_33,ans_33,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_33,ans_33,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_33,ans_33,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_33,ans_33,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_41,ans_41,Items,has_requirement,unused,Eligibility
+doc_41,ans_41,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_41,ans_41,Refund processing time is 5-7 business days,applies_to,Processing time,#NAME?
+doc_41,ans_41,#NAME?,processing_time_range,5-7 business days,#NAME?
+doc_41,ans_41,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_41,ans_41,Perishable goods,excludes,goods,#NAME?/Exceptions
+doc_41,ans_41,Contact Information,supports_return,support@example.com,#NAME?/Contact
+doc_41,ans_41,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_49,ans_49,Items,has_requirement,unused,Eligibility
+doc_49,ans_49,items,must be,returned within 30 days,Eligibility
+doc_49,ans_49,items,must be,unused,Eligibility
+doc_49,ans_49,return policy,must be,returned within 30 days,Eligibility
+doc_49,ans_49,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_49,ans_49,#NAME?,processing_time_range,5-7 business days,#NAME?
+doc_49,ans_49,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_49,ans_49,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_49,ans_49,Contact support@example.com,uses_support_channel,support@example.com,#NAME?/Contact
+doc_49,ans_49,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_49,ans_49,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_57,ans_57,Items,has_requirement,unused,Eligibility
+doc_57,ans_57,items,must be returned within 30 days,within 30 days,Eligibility
+doc_57,ans_57,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_57,ans_57,Digital products,is_#NAME?/Exc,non-refundable,#NAME?/Exceptions
+doc_57,ans_57,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_57,ans_57,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_57,ans_57,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_65,ans_65,Items,has_requirement,unused,Eligibility
+doc_65,ans_65,items,must_be_returned_within_30_days,within 30 days,Eligibility
+doc_65,ans_65,Refund processing time,includes_promotion,5-7 business days,#NAME?
+doc_65,ans_65,#NAME?,supports_return,True,#NAME?
+doc_65,ans_65,#NAME?,processes_data,True,#NAME?
+doc_65,ans_65,#NAME?,defines_delivery_zone,False,#NAME?
+doc_65,ans_65,#NAME?,applies_to,Refund Method,#NAME?
+doc_65,ans_65,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_65,ans_65,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_65,ans_65,Contact support@example.com,uses_support_channel,support@example.com,#NAME?/Contact
+doc_65,ans_65,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_65,ans_65,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_73,ans_73,Items,must be,unused,Eligibility
+doc_73,ans_73,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_73,ans_73,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_73,ans_73,#NAME?,processing_time,5-7 business days,#NAME?
+doc_73,ans_73,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_73,ans_73,Perishable goods,excluded_by,exceptions,#NAME?/Exceptions
+doc_73,ans_73,Contact support@example.com,uses_support_channel,support@example.com,#NAME?/Contact
+doc_73,ans_73,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_73,ans_73,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_81,ans_81,Items,has_requirement,unused,Eligibility
+doc_81,ans_81,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_81,ans_81,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_81,ans_81,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_81,ans_81,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_81,ans_81,Excluded from sale,excluded_from,perishable goods,#NAME?/Exceptions
+doc_81,ans_81,Contact Support,uses_support_channel,support@example.com,#NAME?/Contact
+doc_81,ans_81,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_81,ans_81,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_81,ans_81,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_89,ans_89,Items,has_requirement,unused,Eligibility
+doc_89,ans_89,items,must_be_returned_within_30_days,within 30 days,Eligibility
+doc_89,ans_89,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_89,ans_89,#NAME?,processing_time_range,5-7 business days,#NAME?
+doc_89,ans_89,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_89,ans_89,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_89,ans_89,Contact Information,supports_return,support@example.com,#NAME?/Contact
+doc_89,ans_89,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_89,ans_89,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_89,ans_89,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_97,ans_97,Items,has_requirement,unused,Eligibility
+doc_97,ans_97,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_97,ans_97,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_97,ans_97,processing_time,applies_to,5-7 business days,#NAME?
+doc_97,ans_97,Digital products,is_#NAME?/Exc,non-refundable,#NAME?/Exceptions
+doc_97,ans_97,perishable goods,excluded by,exception,#NAME?/Exceptions
+doc_97,ans_97,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_97,ans_97,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_105,ans_105,Items,has_requirement,unused,Eligibility
+doc_105,ans_105,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_105,ans_105,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_105,ans_105,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_105,ans_105,perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_105,ans_105,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_105,ans_105,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_113,ans_113,Items,has_requirement,unused,Eligibility
+doc_113,ans_113,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_113,ans_113,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_113,ans_113,Processing time for returns,processes_data,5-7 business days,#NAME?
+doc_113,ans_113,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_113,ans_113,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_113,ans_113,Contact Information for Support,uses_support_channel,support@example.com,#NAME?/Contact
+doc_113,ans_113,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_113,ans_113,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_121,ans_121,Items,has_requirement,unused,Eligibility
+doc_121,ans_121,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_121,ans_121,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_121,ans_121,#NAME?,processing_time,5-7 business days,#NAME?
+doc_121,ans_121,Digital products,is_#NAME?/Exc,non-refundable,#NAME?/Exceptions
+doc_121,ans_121,Perishable goods,are,exceptions,#NAME?/Exceptions
+doc_121,ans_121,Contact support@example.com,uses_support_channel,Phone: +1-800-123-4567,#NAME?/Contact
+doc_121,ans_121,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_121,ans_121,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_129,ans_129,Items,must be,unused,Eligibility
+doc_129,ans_129,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_129,ans_129,#NAME?,includes_warranty,False,#NAME?
+doc_129,ans_129,Refund processing time,applies_to,5-7 business days,#NAME?
+doc_129,ans_129,#NAME?,processes_data,True,#NAME?
+doc_129,ans_129,#NAME?,supports_return,True,#NAME?
+doc_129,ans_129,Digital products,do not grant refunds,due to their non-tangible nature,#NAME?/Exceptions
+doc_129,ans_129,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_129,ans_129,support@example.com,supports_return,Phone: +1-800-123-4567,#NAME?/Contact
+doc_129,ans_129,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_137,ans_137,Items,must be,unused,Eligibility
+doc_137,ans_137,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_137,ans_137,#NAME?,includes_warranty,false,#NAME?
+doc_137,ans_137,#NAME?,applies_to,processing_time,#NAME?
+doc_137,ans_137,#NAME?,supports_return,true,#NAME?
+doc_137,ans_137,Digital products,includes_warranty,false,#NAME?/Exceptions
+doc_137,ans_137,Digital products are non-refundable,grants_refund,false,#NAME?/Exceptions
+doc_137,ans_137,Digital products,offers_feature,true,#NAME?/Exceptions
+doc_137,ans_137,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_137,ans_137,Contact Information,uses_support_channel,support@example.com,#NAME?/Contact
+doc_137,ans_137,Contact,owns_account,+ (Email: support@examp...),#NAME?/Contact
+doc_137,ans_137,Contact,supports_return,+ (Email: support@examp...),#NAME?/Contact
+doc_137,ans_137,Contact,activates_subscription,+ (Email: support@examp...),#NAME?/Contact
+doc_145,ans_145,Items,has_requirement,unused,Eligibility
+doc_145,ans_145,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_145,ans_145,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_145,ans_145,Refund processing time,applies_to,5-7 business days,#NAME?
+doc_145,ans_145,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_145,ans_145,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_145,ans_145,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_145,ans_145,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_153,ans_153,items,must be used,unused,Eligibility
+doc_153,ans_153,items,return eligible,within 30 days,Eligibility
+doc_153,ans_153,#NAME?,applies_to,Processing time,#NAME?
+doc_153,ans_153,Processing time for refunds,supports_return,5-7 business days,#NAME?
+doc_153,ans_153,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_153,ans_153,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_153,ans_153,Contact,includes,Email: support@example.com,#NAME?/Contact
+doc_153,ans_153,Contact,includes,Phone: +1-800-123-4567,#NAME?/Contact
+doc_161,ans_161,Items,has_requirement,unused,Eligibility
+doc_161,ans_161,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_161,ans_161,Media push section,covers_shipping,text,Refund Method
+doc_161,ans_161,Refund processing time,covers_shipping,Details of refund,Refund Method
+doc_161,ans_161,Myself call us skill represent make strong kitchen,defines_delivery_zone,text,Refund Method
+doc_161,ans_161,Media push section,processes_data,text,Refund Method
+doc_161,ans_161,Media push section,writes_review,text,Refund Method
+doc_161,ans_161,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_161,ans_161,Digital products,do not include warranty,no refund,#NAME?/Exceptions
+doc_161,ans_161,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_161,ans_161,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_161,ans_161,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_169,ans_169,Items,must be,unused,Eligibility
+doc_169,ans_169,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_169,ans_169,#NAME?,includes_warranty,False,#NAME?
+doc_169,ans_169,#NAME?,supports_return,True,#NAME?
+doc_169,ans_169,#NAME?,processes_data,True,#NAME?
+doc_169,ans_169,#NAME?,applies_to,Refund Method,#NAME?
+doc_169,ans_169,#NAME?,defines_delivery_zone,False,#NAME?
+doc_169,ans_169,Digital products,are not refundable,digital,#NAME?/Exceptions
+doc_169,ans_169,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_169,ans_169,support@example.com,supports_return,Phone: +1-800-123-4567,#NAME?/Contact
+doc_169,ans_169,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_169,ans_169,Contact support@example.com,uses_support_channel,support@example.com,#NAME?/Contact
+doc_169,ans_169,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_169,ans_169,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_177,ans_177,Items,has_requirement,unused,Eligibility
+doc_177,ans_177,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_177,ans_177,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_177,ans_177,#NAME?,processing_time,5-7 business days,#NAME?
+doc_177,ans_177,Digital products are not refundable,excluded_from,any amount,#NAME?/Exceptions
+doc_177,ans_177,Perishable goods,defines,excluded,#NAME?/Exceptions
+doc_177,ans_177,Contact Information,uses_support_channel,support@example.com Phone: +1-800-123-4567,#NAME?/Contact
+doc_177,ans_177,Contact,owns_account, (Email: support@examp...),#NAME?/Contact
+doc_177,ans_177,Contact,supports_return, (Email: support@examp...),#NAME?/Contact
+doc_185,ans_185,Items,has_requirement,unused,Eligibility
+doc_185,ans_185,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_185,ans_185,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_185,ans_185,processing_time,applies_to,5-7 business days,#NAME?
+doc_185,ans_185,Digital products,is_non_refundable,true,#NAME?/Exceptions
+doc_185,ans_185,Perishable goods,excluded_by,exceptions,#NAME?/Exceptions
+doc_185,ans_185,Contact support@example.com,uses_support_channel,Phone: +1-800-123-4567,#NAME?/Contact
+doc_185,ans_185,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_193,ans_193,Items,has_requirement,unused,Eligibility
+doc_193,ans_193,items,must be returned within,30 days,Eligibility
+doc_193,ans_193,items,are unused,true,Eligibility
+doc_193,ans_193,Refund processing time,supports_return,5-7 business days,#NAME?
+doc_193,ans_193,#NAME?,applies_to,Processing time,#NAME?
+doc_193,ans_193,#NAME?,processes_data,True,#NAME?
+doc_193,ans_193,#NAME?,supports_return,True,#NAME?
+doc_193,ans_193,Digital products,is_#NAME?/Exc,non-refundable,#NAME?/Exceptions
+doc_193,ans_193,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_193,ans_193,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_193,ans_193,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_201,ans_201,Items,has_requirement,unused,Eligibility
+doc_201,ans_201,items,must_be_returned_within_30_days,within 30 days,Eligibility
+doc_201,ans_201,Refund processing time is 5-7 business days,applies_to,Processing time,#NAME?
+doc_201,ans_201,#NAME?,processing_time,5-7 business days,#NAME?
+doc_201,ans_201,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_201,ans_201,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_201,ans_201,Contact Information for Support,uses_support_channel,support@example.com,#NAME?/Contact
+doc_201,ans_201,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_201,ans_201,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_209,ans_209,Items,has_requirement,unused,Eligibility
+doc_209,ans_209,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_209,ans_209,#NAME?,includes_warranty,false,#NAME?
+doc_209,ans_209,#NAME?,supports_return,true,#NAME?
+doc_209,ans_209,#NAME?,processes_data,true,#NAME?
+doc_209,ans_209,#NAME?,defines_delivery_zone,false,#NAME?
+doc_209,ans_209,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_209,ans_209,Perishable goods,defines,excluded,#NAME?/Exceptions
+doc_209,ans_209,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_209,ans_209,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_217,ans_217,Items,has_requirement,unused,Eligibility
+doc_217,ans_217,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_217,ans_217,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_217,ans_217,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_217,ans_217,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_217,ans_217,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_217,ans_217,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_225,ans_225,Items,has_requirement,unused,Eligibility
+doc_225,ans_225,items,must_be_returned_within_30_days,within 30 days,Eligibility
+doc_225,ans_225,account,owns,myself,Refund Method
+doc_225,ans_225,return,grants_refund,civil,Refund Method
+doc_225,ans_225,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_225,ans_225,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_225,ans_225,Perishable goods,excluded_by,exceptions,#NAME?/Exceptions
+doc_225,ans_225,Contact Information for Support,uses_support_channel,support@example.com,#NAME?/Contact
+doc_225,ans_225,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_225,ans_225,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_233,ans_233,Items,has_requirement,unused,Eligibility
+doc_233,ans_233,items,must be unused,unused,Eligibility
+doc_233,ans_233,items,must be returned within 30 days,30 days,Eligibility
+doc_233,ans_233,return policy,includes,30 days,Eligibility
+doc_233,ans_233,#NAME?,includes_warranty,true,#NAME?
+doc_233,ans_233,Refund processing time,applies_to,5-7 business days,#NAME?
+doc_233,ans_233,#NAME?,applies_to,Order #27954,#NAME?
+doc_233,ans_233,#NAME?,defines_delivery_zone,false,#NAME?
+doc_233,ans_233,Digital products,do not grant refunds,are non-refundable,#NAME?/Exceptions
+doc_233,ans_233,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_233,ans_233,Contact support@example.com,uses_support_channel,Phone: +1-800-123-4567,#NAME?/Contact
+doc_233,ans_233,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_233,ans_233,Contact,includes_warranty,+1-800-123-4567,#NAME?/Contact
+doc_241,ans_241,Items,must be,unused,Eligibility
+doc_241,ans_241,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_241,ans_241,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_241,ans_241,Processing time for refunds,supports_return,5-7 business days,#NAME?
+doc_241,ans_241,Digital products,is_#NAME?/Exc,non-refundable,#NAME?/Exceptions
+doc_241,ans_241,perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_241,ans_241,Contact Information for Support,uses_support_channel,support@example.com,#NAME?/Contact
+doc_241,ans_241,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_241,ans_241,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_249,ans_249,Items,must be,unused,Eligibility
+doc_249,ans_249,Items,requires_payment_method,unused,Eligibility
+doc_249,ans_249,items,must be,returned within 30 days,Eligibility
+doc_249,ans_249,Processing time for refunds,applies_to,Refund processing time is 5-7 business days,#NAME?
+doc_249,ans_249,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_249,ans_249,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_249,ans_249,Contact Support,uses_support_channel,support@example.com,#NAME?/Contact
+doc_249,ans_249,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_249,ans_249,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_249,ans_249,Contact,includes_warranty,support@example.com,#NAME?/Contact
+doc_257,ans_257,Page evidence,has_section,Eligibility,Eligibility
+doc_257,ans_257,Eligibility criteria,supports_return,specific requirements for qualification,Eligibility
+doc_257,ans_257,Items,has_requirement,unused,Eligibility
+doc_257,ans_257,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_257,ans_257,Refund processing time is 5-7 business days,applies_to,5-7 business days,#NAME?
+doc_257,ans_257,Digital products are non-refundable,excludes,returns,#NAME?/Exceptions
+doc_257,ans_257,Exceptions,are,non-refundable,#NAME?/Exceptions
+doc_257,ans_257,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_257,ans_257,Contact support@example.com,uses_support_channel,support@example.com,#NAME?/Contact
+doc_257,ans_257,Contact,owns_account,support@example.com,#NAME?/Contact
+doc_257,ans_257,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_257,ans_257,Contact,activates_subscription,support@example.com,#NAME?/Contact
+doc_265,ans_265,Items,has_requirement,unused,Eligibility
+doc_265,ans_265,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_265,ans_265,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_265,ans_265,Refund processing time,applies_to,5-7 business days,#NAME?
+doc_265,ans_265,Digital products,is_#NAME?/Exc,non-refundable,#NAME?/Exceptions
+doc_265,ans_265,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_265,ans_265,Digital products,non-refundable,exceptions,#NAME?/Exceptions
+doc_265,ans_265,Perishable goods,excluded from,refunds,#NAME?/Exceptions
+doc_265,ans_265,Contact support@example.com,uses_support_channel,support@example.com,#NAME?/Contact
+doc_265,ans_265,Contact,supports_return,support@example.com,#NAME?/Contact
+doc_273,ans_273,Items,has_requirement,unused,Eligibility
+doc_273,ans_273,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_273,ans_273,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_273,ans_273,#NAME?,includes_warranty,Processing time is 5-7 business days,#NAME?
+doc_273,ans_273,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_273,ans_273,Perishable goods,excluded, (Perishable goods are...),#NAME?/Exceptions
+doc_273,ans_273,Contact Support,supports_return,support@example.com,#NAME?/Contact
+doc_273,ans_273,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_273,ans_273,Contact support@example.com,uses_support_channel,Phone: +1-800-123-4567,#NAME?/Contact
+doc_273,ans_273,Contact,includes_warranty,+1-800-123-4567,#NAME?/Contact
+doc_281,ans_281,Items,must be,unused,Eligibility
+doc_281,ans_281,items,must be returned within 30 days,unused items,Eligibility
+doc_281,ans_281,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_281,ans_281,Processing time for refunds,supports_return,5-7 business days,#NAME?
+doc_281,ans_281,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_281,ans_281,Perishable goods,includes,excluded,#NAME?/Exceptions
+doc_281,ans_281,Contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_281,ans_281,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_289,ans_289,Item,has_requirement,Unused,Eligibility
+doc_289,ans_289,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_289,ans_289,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_289,ans_289,Processing time for refunds,supports_return,5-7 business days,#NAME?
+doc_289,ans_289,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_289,ans_289,Excluded from sale,excluded_from,perishable goods,#NAME?/Exceptions
+doc_289,ans_289,Contact Information,uses_support_channel,support@example.com (+1-800-123-4567),#NAME?/Contact
+doc_289,ans_289,Contact,owns_account,+1-800-123-4567,#NAME?/Contact
+doc_297,ans_297,Items,has_requirement,unused,Eligibility
+doc_297,ans_297,items,must_be_returned_within_days,30 (Must be returned wit...),Eligibility
+doc_297,ans_297,#NAME?,applies_to,Processing time is 5-7 business days,#NAME?
+doc_297,ans_297,Refund processing time,processes_data,5-7 business days,#NAME?
+doc_297,ans_297,Digital products,are,non-refundable,#NAME?/Exceptions
+doc_297,ans_297,Perishable goods,excluded by,exceptions,#NAME?/Exceptions
+doc_297,ans_297,Support contact,uses_support_channel,support@example.com,#NAME?/Contact
+doc_297,ans_297,Support for returns,uses_support_channel,support@example.com,#NAME?/Contact
+doc_297,ans_297,Contact,includes_warranty,support@example.com,#NAME?/Contact

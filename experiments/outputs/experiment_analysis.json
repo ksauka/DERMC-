@@ -1,0 +1,274 @@
+{
+  "test10": {
+    "dataset": "test10",
+    "files": {
+      "oie_triplets_flat.csv": {
+        "exists": true,
+        "rows": 122,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "oie_triplets_hierarchical.csv": {
+        "exists": true,
+        "rows": 111,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "refined_triplets_flat.csv": {
+        "exists": true,
+        "rows": 22,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "refined_triplets_hierarchical.csv": {
+        "exists": true,
+        "rows": 18,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "canonical_kg_flat.csv": {
+        "exists": true,
+        "rows": 22,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Subject Type",
+          "Relation",
+          "Object",
+          "Object Type",
+          "Hierarchy",
+          "Ontology Version"
+        ]
+      },
+      "canonical_kg_hierarchical.csv": {
+        "exists": true,
+        "rows": 18,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Subject Type",
+          "Relation",
+          "Object",
+          "Object Type",
+          "Hierarchy",
+          "Ontology Version"
+        ]
+      }
+    }
+  },
+  "test20": {
+    "dataset": "test20",
+    "files": {
+      "oie_triplets_flat.csv": {
+        "exists": true,
+        "rows": 232,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "oie_triplets_hierarchical.csv": {
+        "exists": true,
+        "rows": 232,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "refined_triplets_flat.csv": {
+        "exists": true,
+        "rows": 31,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "refined_triplets_hierarchical.csv": {
+        "exists": true,
+        "rows": 25,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "canonical_kg_flat.csv": {
+        "exists": true,
+        "rows": 31,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Subject Type",
+          "Relation",
+          "Object",
+          "Object Type",
+          "Hierarchy",
+          "Ontology Version"
+        ]
+      },
+      "canonical_kg_hierarchical.csv": {
+        "exists": true,
+        "rows": 25,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Subject Type",
+          "Relation",
+          "Object",
+          "Object Type",
+          "Hierarchy",
+          "Ontology Version"
+        ]
+      }
+    }
+  },
+  "test50": {
+    "dataset": "test50",
+    "files": {
+      "oie_triplets_flat.csv": {
+        "exists": true,
+        "rows": 606,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "oie_triplets_hierarchical.csv": {
+        "exists": true,
+        "rows": 586,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "refined_triplets_flat.csv": {
+        "exists": true,
+        "rows": 91,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "refined_triplets_hierarchical.csv": {
+        "exists": true,
+        "rows": 67,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Relation",
+          "Object",
+          "Hierarchy"
+        ]
+      },
+      "canonical_kg_flat.csv": {
+        "exists": true,
+        "rows": 91,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Subject Type",
+          "Relation",
+          "Object",
+          "Object Type",
+          "Hierarchy",
+          "Ontology Version"
+        ]
+      },
+      "canonical_kg_hierarchical.csv": {
+        "exists": true,
+        "rows": 67,
+        "columns": [
+          "Doc ID",
+          "Answer ID",
+          "Subject",
+          "Subject Type",
+          "Relation",
+          "Object",
+          "Object Type",
+          "Hierarchy",
+          "Ontology Version"
+        ]
+      }
+    }
+  },
+  "test200": {
+    "dataset": "test200",
+    "files": {
+      "oie_triplets_flat.csv": {
+        "exists": false
+      },
+      "oie_triplets_hierarchical.csv": {
+        "exists": false
+      },
+      "refined_triplets_flat.csv": {
+        "exists": false
+      },
+      "refined_triplets_hierarchical.csv": {
+        "exists": false
+      },
+      "canonical_kg_flat.csv": {
+        "exists": false
+      },
+      "canonical_kg_hierarchical.csv": {
+        "exists": false
+      }
+    }
+  }
+}

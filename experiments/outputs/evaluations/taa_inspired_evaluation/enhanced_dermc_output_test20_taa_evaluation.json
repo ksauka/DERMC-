@@ -1,0 +1,277 @@
+{
+  "experiment_name": "enhanced_dermc_output_test20",
+  "parsing_mode": "hierarchical",
+  "dataset_size": 20,
+  "evaluation_methodology": "TAA-inspired",
+  "structural_validation": {
+    "total_triplets": 25,
+    "complete_triplets": 25,
+    "incomplete_triplets": 0,
+    "empty_subjects": 0,
+    "empty_relations": 0,
+    "empty_objects": 0,
+    "malformed_relations": 0,
+    "valid_entity_types": 25,
+    "structural_quality_score": 1.0
+  },
+  "compatibility_assessment": {
+    "sample_size": 25,
+    "evaluated_triplets": 25,
+    "mean_compatibility": 7.04,
+    "median_compatibility": 7.0,
+    "std_compatibility": 1.28,
+    "relation_consistency": {
+      "total_relations": 13,
+      "consistent_relations": 5,
+      "inconsistent_relations": 8,
+      "relation_usage_stats": {
+        "must_be_returned_within_days": {
+          "usage_count": 1,
+          "subject_diversity": 1.0,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "items",
+              "30 (Must be returned wit...)"
+            ]
+          ]
+        },
+        "includes_warranty": {
+          "usage_count": 1,
+          "subject_diversity": 1.0,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "Contact",
+              "support@example.com"
+            ]
+          ]
+        },
+        "owns_account": {
+          "usage_count": 2,
+          "subject_diversity": 0.5,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "Contact",
+              "support@example.com"
+            ],
+            [
+              "Contact",
+              "+1-800-123-4567"
+            ]
+          ]
+        },
+        "must_be_returned_within_30_days": {
+          "usage_count": 1,
+          "subject_diversity": 1.0,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "items",
+              "within 30 days"
+            ]
+          ]
+        },
+        "supports_return": {
+          "usage_count": 2,
+          "subject_diversity": 1.0,
+          "object_diversity": 0.5,
+          "sample_pairs": [
+            [
+              "Contact Support",
+              "support@example.com"
+            ],
+            [
+              "Contact",
+              "support@example.com"
+            ]
+          ]
+        },
+        "applies_to": {
+          "usage_count": 3,
+          "subject_diversity": 0.6666666666666666,
+          "object_diversity": 0.6666666666666666,
+          "sample_pairs": [
+            [
+              "Processing time for refunds",
+              "Refund processing time is 5-7 business days"
+            ],
+            [
+              "#NAME?",
+              "Processing time is 5-7 business days"
+            ],
+            [
+              "#NAME?",
+              "Processing time is 5-7 business days"
+            ]
+          ]
+        },
+        "excluded by": {
+          "usage_count": 3,
+          "subject_diversity": 0.6666666666666666,
+          "object_diversity": 0.6666666666666666,
+          "sample_pairs": [
+            [
+              "Perishable goods",
+              "exceptions"
+            ],
+            [
+              "Perishable goods",
+              "exceptions"
+            ],
+            [
+              "perishable goods",
+              "returns policy"
+            ]
+          ]
+        },
+        "has_requirement": {
+          "usage_count": 3,
+          "subject_diversity": 0.3333333333333333,
+          "object_diversity": 0.3333333333333333,
+          "sample_pairs": [
+            [
+              "Items",
+              "unused"
+            ],
+            [
+              "Items",
+              "unused"
+            ],
+            [
+              "Items",
+              "unused"
+            ]
+          ]
+        },
+        "are": {
+          "usage_count": 3,
+          "subject_diversity": 0.3333333333333333,
+          "object_diversity": 0.3333333333333333,
+          "sample_pairs": [
+            [
+              "Digital products",
+              "non-refundable"
+            ],
+            [
+              "Digital products",
+              "non-refundable"
+            ],
+            [
+              "Digital products",
+              "non-refundable"
+            ]
+          ]
+        },
+        "activates_subscription": {
+          "usage_count": 1,
+          "subject_diversity": 1.0,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "Contact",
+              "support@example.com"
+            ]
+          ]
+        },
+        "uses_support_channel": {
+          "usage_count": 3,
+          "subject_diversity": 0.6666666666666666,
+          "object_diversity": 0.6666666666666666,
+          "sample_pairs": [
+            [
+              "Contact",
+              "support@example.com"
+            ],
+            [
+              "Contact",
+              "support@example.com"
+            ],
+            [
+              "Contact support@example.com",
+              "+1-800-123-4567"
+            ]
+          ]
+        },
+        "are_unused": {
+          "usage_count": 1,
+          "subject_diversity": 1.0,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "items",
+              "true"
+            ]
+          ]
+        },
+        "must be returned within": {
+          "usage_count": 1,
+          "subject_diversity": 1.0,
+          "object_diversity": 1.0,
+          "sample_pairs": [
+            [
+              "items",
+              "30 days"
+            ]
+          ]
+        }
+      }
+    },
+    "unique_relations": 13,
+    "compatibility_scores": [
+      8.0,
+      8.0,
+      6.0,
+      8.0,
+      7.0,
+      9.0,
+      6.0,
+      7.0,
+      7.0,
+      8.0,
+      8.0,
+      9.0,
+      4.0,
+      8.0,
+      4.0,
+      6.0,
+      6.0,
+      6.0,
+      6.0,
+      8.0,
+      8.0,
+      7.0,
+      7.0,
+      7.0,
+      8.0
+    ]
+  },
+  "cross_stage_consistency": {
+    "oie_relations_count": 31,
+    "refined_relations_count": 13,
+    "canonical_relations_count": 13,
+    "oie_to_refined_preservation_rate": 0.41935483870967744,
+    "refined_to_canonical_preservation_rate": 1.0,
+    "oie_to_canonical_preservation_rate": 0.41935483870967744,
+    "relations_lost_in_refinement": 18,
+    "relations_lost_in_canonicalization": 0,
+    "new_relations_in_refined": 0,
+    "new_relations_in_canonical": 0,
+    "stage_triplet_counts": {
+      "oie": 232,
+      "refined": 25,
+      "canonical": 25
+    }
+  },
+  "domain_plausibility": {
+    "domain": "e-commerce",
+    "sample_size": 25,
+    "evaluated_triplets": 25,
+    "mean_plausibility": 8.08,
+    "median_plausibility": 9.0,
+    "std_plausibility": 1.1285388783732706,
+    "high_plausibility_count": 21,
+    "low_plausibility_count": 0
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "oie_count": 122,
+    "refined_count": 22,
+    "canonical_count": 22,
+    "oie_to_refined_reduction": 81.9672131147541,
+    "refined_to_canonical_loss": 0.0,
+    "overall_efficiency": 18.0327868852459,
+    "quality_control_factor": 5.545454545454546,
+    "information_loss": "Controlled",
+    "dataset": "10-doc",
+    "parsing_mode": "flat"
+  },
+  {
+    "oie_count": 111,
+    "refined_count": 18,
+    "canonical_count": 18,
+    "oie_to_refined_reduction": 83.78378378378379,
+    "refined_to_canonical_loss": 0.0,
+    "overall_efficiency": 16.216216216216218,
+    "quality_control_factor": 6.166666666666667,
+    "information_loss": "Controlled",
+    "dataset": "10-doc",
+    "parsing_mode": "hierarchical"
+  },
+  {
+    "oie_count": 232,
+    "refined_count": 31,
+    "canonical_count": 31,
+    "oie_to_refined_reduction": 86.63793103448276,
+    "refined_to_canonical_loss": 0.0,
+    "overall_efficiency": 13.36206896551724,
+    "quality_control_factor": 7.483870967741935,
+    "information_loss": "Controlled",
+    "dataset": "20-doc",
+    "parsing_mode": "flat"
+  },
+  {
+    "oie_count": 232,
+    "refined_count": 25,
+    "canonical_count": 25,
+    "oie_to_refined_reduction": 89.22413793103449,
+    "refined_to_canonical_loss": 0.0,
+    "overall_efficiency": 10.775862068965516,
+    "quality_control_factor": 9.28,
+    "information_loss": "Controlled",
+    "dataset": "20-doc",
+    "parsing_mode": "hierarchical"
+  },
+  {
+    "oie_count": 606,
+    "refined_count": 91,
+    "canonical_count": 91,
+    "oie_to_refined_reduction": 84.98349834983499,
+    "refined_to_canonical_loss": 0.0,
+    "overall_efficiency": 15.016501650165019,
+    "quality_control_factor": 6.65934065934066,
+    "information_loss": "Controlled",
+    "dataset": "50-doc",
+    "parsing_mode": "flat"
+  },
+  {
+    "oie_count": 586,
+    "refined_count": 67,
+    "canonical_count": 67,
+    "oie_to_refined_reduction": 88.56655290102388,
+    "refined_to_canonical_loss": 0.0,
+    "overall_efficiency": 11.433447098976108,
+    "quality_control_factor": 8.746268656716419,
+    "information_loss": "Controlled",
+    "dataset": "50-doc",
+    "parsing_mode": "hierarchical"
+  }
+]

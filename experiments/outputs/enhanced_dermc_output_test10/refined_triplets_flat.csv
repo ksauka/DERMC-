@@ -1,0 +1,194 @@
+Doc ID,Answer ID,Subject,Relation,Object,Hierarchy
+1,0,Customer Reviews & Moderation Policy — Electronics (US),applies_to,all electronics purchases completed in the US storefront,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,electronics,includes_warranty,warranty,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,electronics,includes_promotion,promotion,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,electronics,charges_tax,tax (It must be noted tha...),Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,electronics,uses_support_channel,support channel,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,electronics,defines_delivery_zone,delivery zone,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Marketplace items,covers,fulfilled by third parties,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,"Digital goods, gift cards, and personalized items",are subject to,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Digital goods,are subject to,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Gift cards,are subject to,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Personalized items,are subject to,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,initiates_request,via_phone,+1-555-0100,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,merchant,reviews,request,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,merchant,communicates,decision,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,next_steps,includes,documents_required,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,customer,is_informed_of,next_steps,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,payment_method,requires_payment_method,Mastercard,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,payment_method,requires_payment_method,Bank Transfer,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,payment_method,requires_payment_method,Apple Pay,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,High-value orders,requires_payment_method,additional verification,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,High-value orders,implements_security_measure,3-D Secure,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,High-value orders,has_requirement,verification,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,Payment Method,issued_to,original_payment_method,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,return_shipment,must_be_dispatched_within,30_days_after_approval,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,refund,issued_within,3_business_days,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,item,marked_as_received_and_inspected,refund,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,subscription cancellations,takes_effect_at,end_of_current_billing_period,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,subscription,renews,automatically,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,used,includes,exception,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,damaged,includes,exception,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,missing_accessories,includes,exception,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Perishable goods and hygiene‑sensitive items in electronics,excluded from returns,when opened,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Promotional bundles,includes_promotion,bundles,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Promotional bundles,grants_refund,prorated amount with 25% deducted,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Promotional bundles,supports_return,items,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,prices,includes_tax,US (Prices are displayed...),Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,cross-border shipments,may incur,customs duties,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,customs duties,are collected,by the carrier or local authority,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,customers,are_informed_of,right_to_withdraw,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,purchase,is_required_by_law,within_a_statutory_period,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,Customer data,processed,to fulfill transactions,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,Customer data,processed,and provide customer support,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,payment data,stored by,PCI-compliant processors,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,card numbers,not retained,by the merchant,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,customers,request_access_or_deletion,personal_data,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,uses_support_channel,available,email,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,The merchant,provides,a case reference number,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,The merchant,for,every submitted request,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,The support team,logs,communications,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,The support team,is required to,respond within published service levels,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,places_order,requires_payment_method,true,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,checkout,offers_feature,order confirmation,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,order,covers_shipping,shipping rates,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,order,placed,when payment authorization is received by the processor,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,payment,authorization,by the processor,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,order_confirmation,sent_to,account_email,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,transaction_reference,is_sent_with,order_confirmation,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,writes_review,customer,purchased items,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,requires_payment_method,writes_review,moderation guidelines,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,writes_review,must,not (Reviews must focus o...),Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,writes_review,must,include,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,writes_review,must,personal,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,reviews,has_requirement,applicable_law,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,subscription,activates,payment,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,subscription,renewals,automatically,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,customer,cancels,before,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,requires_payment_method,valid payment method,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,owns_account,account,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,uses_support_channel,support channel,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,includes_warranty,warranty,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,Warranty,includes,eligible electronics,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty,against,defects in materials and workmanship,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty,includes,coverage,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty,limited_by,duration,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty coverage is limited by duration and does not include accidental damage,does_not_include,accidental_damage,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,claims,requires,proof_of_purchase,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,claims,requires,inspection_by_authorized_center,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,shipping methods,provides,during checkout,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,shipping methods,are displayed,before payment,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,Shipping status,includes,tracking links,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,Shipping status,includes,carrier updates,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,The merchant,requires,investigate shipping delays with the carrier when reported,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,shipping delays,with,the carrier,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+9,0,account & access policy,includes,electronics purchases completed in the US storefront,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,account & access policy,applies_to,in-store orders,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,electronics,includes,warranty,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,electronics,includes,promotion,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,electronics,charges,tax (It must be noted tha...),Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,support,uses,channel,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,scope,defines,delivery_zone,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items,includes_promotion,third parties,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items,covers_shipping,third parties,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items,offers_feature,third parties,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items,includes_warranty,third parties,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items,supports_return,third parties,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Digital goods,are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,gift cards,are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,personalized items,are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,initiates_account_request,via,contact_form,Account & Access Policy — Electronics (US)/Process
+9,0,Customer must initiate the account request via contact form at /support/requests and provide the order number.,requires,order number,Account & Access Policy — Electronics (US)/Process
+9,0,requests,must_be_reviewed_within,30 days,Account & Access Policy — Electronics (US)/Process
+9,0,requests,communicates_decision,merchant,Account & Access Policy — Electronics (US)/Process
+9,0,customer,is_informed_of,next_steps_and_documents_required,Account & Access Policy — Electronics (US)/Process
+9,0,customer,receives,approval_notification,Account & Access Policy — Electronics (US)/Process
+9,0,payment_method,requires_payment_method,Visa,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,payment_method,requires_payment_method,Apple Pay,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,payment_method,requires_payment_method,Mastercard,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,High-value orders,requires,additional verification,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,High-value orders,may require,3-D Secure,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,Refunds,issued_to,original_payment_method,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,Refunds,unless,local_law,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,return_shipment,must_be_dispatched_within,5_business_days_after_approval,Account & Access Policy — Electronics (US)/Timelines
+9,0,Refund,issued_within,10_business_days_of_the_item_being_marked_as_received_and_inspected,Account & Access Policy — Electronics (US)/Timelines
+9,0,item,being_marked_as_received_and_inspected,Refund,Account & Access Policy — Electronics (US)/Timelines
+9,0,subscription cancellations,cancels,at the end of the current billing period,Account & Access Policy — Electronics (US)/Timelines
+9,0,"Items that are used, damaged, or missing accessories",includes,are not eligible,Account & Access Policy — Electronics (US)/Exceptions
+9,0,damaged,has_requirement,manufacturing defect verification required,Account & Access Policy — Electronics (US)/Exceptions
+9,0,missing accessories,has_requirement,manufacturing defect verification required,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Perishable goods and hygiene-sentive items in electronics,excluded,returns when opened,Account & Access Policy — Electronics (US)/Exceptions
+9,0,hygiene-sensitive items,excluded,returns,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,includes_promotion,bundles,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,may_be_refunded,amount,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,deducts_percentage,25% (Promotional bundles ...),Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,items_are_missing,items,Account & Access Policy — Electronics (US)/Exceptions
+9,0,prices,includes_tax,US (Prices are displayed...),Account & Access Policy — Electronics (US)/Regional Notes
+9,0,prices,defined_by,applicable_taxes,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,cross-border shipments,may incur,customs duties,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,customs duties,are collected,by the carrier or local authority,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,customers,are_informed_of,right_to_withdraw,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,purchase,is_subject_to,statutory_period,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,customer data,records_transaction,fulfill transactions,Account & Access Policy — Electronics (US)/Privacy
+9,0,customer data,processed,provide customer support,Account & Access Policy — Electronics (US)/Privacy
+9,0,Payment data,stored by PCI-compliant processors,merchant does not retain full card numbers,Account & Access Policy — Electronics (US)/Privacy
+9,0,card numbers,not retained,by the merchant,Account & Access Policy — Electronics (US)/Privacy
+9,0,customers,request_access_or_deletion_of_personal_data,personal data,Account & Access Policy — Electronics (US)/Privacy
+9,0,Customer support,uses_support_channel,live chat,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,includes_warranty,no mention,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,owns_account,no mention,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,writes_review,no mention,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,supports_return,no mention,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The merchant,provides,a case reference number,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The merchant,for,every submitted request,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The support team,logs,communications,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The support team,is required,to respond within published service levels,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,customer,places_order,checkout,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,customer,confirms_acceptance_of_terms,terms,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,order,places,payment,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,payment,requires,authorization,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,authorization,records,transaction,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,Order confirmation,sent to,account email,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,Order confirmation,contains,transaction reference,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,subscription,activates,payment,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,subscription,renews,automatically,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,customer,cancels,before,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,renewal date,is related to,automatic renewal,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,owns_account,requires_payment_method,valid payment method,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,owns_account,activates_subscription,immediately after successful payment and account association,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,owns_account,uses_support_channel,live chat in the Help Center for policy questions and case updates,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,Warranty,includes,eligible electronics,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty,against,defects in materials and workmanship,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty coverage,includes,duration,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty coverage,includes,workmanship,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty coverage,does not include,accidental damage,Account & Access Policy — Electronics (US)/Warranty
+9,0,claims,requires,proof_of_purchase,Account & Access Policy — Electronics (US)/Warranty
+9,0,claims,may_require,inspection_by_an_authorized_center,Account & Access Policy — Electronics (US)/Warranty
+9,0,Promotion codes,includes_promotion,single-use,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotion codes,offers_feature,discounts,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotion codes,cannot_be_combined_with,other discounts,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,includes_promotion,discount,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,charges_tax,false,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,grants_refund,true,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,supports_return,true,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,requires_payment_method,true,Account & Access Policy — Electronics (US)/Promotions
+9,0,coupons,includes,certain brands or categories,Account & Access Policy — Electronics (US)/Promotions
+9,0,offer terms,published in,coupons,Account & Access Policy — Electronics (US)/Promotions
+9,0,account,requires,access,Account & Access Policy — Electronics (US)/Account & Access
+9,0,account,owns,order_history,Account & Access Policy — Electronics (US)/Account & Access
+9,0,account,owns,subscriptions,Account & Access Policy — Electronics (US)/Account & Access
+9,0,account_email,must_be,verified,Account & Access Policy — Electronics (US)/Account & Access
+9,0,order_notifications,requires,verified_account_email,Account & Access Policy — Electronics (US)/Account & Access
+9,0,Account & Access Policy — Electronics (US),owns_account,account,Account & Access Policy — Electronics (US)/Account & Access
+9,0,Account & Access Policy — Electronics (US),implements_security_measure,authentication,Account & Access Policy — Electronics (US)/Account & Access
+9,0,Account & Access Policy — Electronics (US),uses_support_channel,support channel,Account & Access Policy — Electronics (US)/Account & Access
+10,0,subscription policy,applies to,all beauty purchases completed in the CA storefront,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,subscription policy,is designed for,"clear, predictable outcomes for customers and the merchant",Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,subscription policy,is applicable to,both online and in-store orders,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,policy,applies_to,beauty,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,merchant,sells,beauty,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,includes_promotion,explicitly stated,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,covers_shipping,no coverage mentioned,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,offers_feature,no feature mentioned,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,includes_warranty,no warranty mention,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,supports_return,return support not mentioned,Subscription Policy — Beauty (CA)/Scope & Eligibility

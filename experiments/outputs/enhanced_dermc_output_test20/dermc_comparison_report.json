@@ -1,0 +1,27 @@
+{
+  "pipeline": "ERDRC+ Enhanced",
+  "timestamp": "2026-01-04T17:47:52.264749+00:00",
+  "comparison_summary": {
+    "hierarchical_mode": {
+      "processing_time_seconds": 1326.7544949054718,
+      "total_documents": 20,
+      "total_triplets": 279,
+      "avg_triplets_per_doc": 13.95
+    },
+    "flat_mode": {
+      "processing_time_seconds": 1382.6640317440033,
+      "total_documents": 20,
+      "total_triplets": 285,
+      "avg_triplets_per_doc": 14.25
+    }
+  },
+  "performance_analysis": {
+    "triplet_extraction_difference": -6,
+    "processing_time_difference_seconds": -55.909536838531494,
+    "efficiency_ratio": 1.0421400771983176
+  },
+  "recommendations": {
+    "preferred_mode": "flat",
+    "reasoning": "Flat mode is more efficient"
+  }
+}

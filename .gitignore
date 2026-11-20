@@ -1,0 +1,19 @@
+# Windows download metadata
+*:Zone.Identifier
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Local secrets and runtime configuration
+.env
+.env.*
+!.env.example
+
+# Generated experiment scratch files
+*.log

@@ -1,0 +1,647 @@
+Doc ID,Answer ID,Subject,Relation,Object,Hierarchy
+1,0,Customer Reviews & Moderation Policy — Electronics (US),applies_to,electronics purchases completed in the US storefront,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,policy,includes,electronics,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,merchant,sells,electronics,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Marketplace items fulfilled by third parties,includes_promotion,explicitly stated,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Marketplace items fulfilled by third parties,covers_shipping,no coverage,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Marketplace items fulfilled by third parties,offers_feature,no feature,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Marketplace items fulfilled by third parties,includes_warranty,no warranty,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Marketplace items fulfilled by third parties,supports_return,return not supported,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,Digital goods,includes,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,gift cards,includes,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,personalized items,includes,additional restrictions,Customer Reviews & Moderation Policy — Electronics (US)/Scope & Eligibility
+1,0,initiates_request,via,phone,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,initiates_request,and,+1-555-0100,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,initiates_request,provide,order number,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,merchant,reviews,request,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,merchant,communicates,decision,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,next steps,informed of,customer,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,documents required,informed of,customer,Customer Reviews & Moderation Policy — Electronics (US)/Process
+1,0,payment_method,requires_payment_method,Mastercard,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,payment_method,requires_payment_method,Bank Transfer,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,payment_method,requires_payment_method,Apple Pay,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,High-value orders,are subject to,additional verification,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,High-value orders,may require,3-D Secure,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,Payment Method,is_original,Original Payment Method,Customer Reviews & Moderation Policy — Electronics (US)/Payment & Refunds
+1,0,return_shipment,must_be_dispatched_within,30_days_after_approval,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,refund,issued_within,3_business_days,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,item,marked_as_received_and_inspected,refund,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,subscription cancellations,takes_effect_at,end_of_current_billing_period,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,subscription,renews,automatically,Customer Reviews & Moderation Policy — Electronics (US)/Timelines
+1,0,used,includes,items,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,damaged,includes,items,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,missing accessories,includes,items,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,manufacturing defect,requires,verified,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Perishable goods and hygiene-sentive items in electronics,excluded from returns,perishable goods and hygiene-sensitive items,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Promotional bundles,includes_promotion,bundles,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Promotional bundles,may be refunded,bundles,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,Promotional bundles,with 25% deducted,bundles,Customer Reviews & Moderation Policy — Electronics (US)/Exceptions
+1,0,prices,includes_tax,US (Prices are displayed...),Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,cross-border shipments,may incur,customs duties,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,customs duties,are collected,by the carrier,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,customs duties,are collected,or local authority,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,customers,are_informed_of,right_to_withdraw,Customer Reviews & Moderation Policy — Electronics (US)/Regional Notes
+1,0,Customer data,processed by,fulfill transactions and provide customer support,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,payment data,stored_by,PCI-compliant processors,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,merchant,does_not_retain,full card numbers,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,customers,may_request_access_or_deletion_of_personal_data,personal data,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,customers,is_subject_to_retention_obligations,retention obligations,Customer Reviews & Moderation Policy — Electronics (US)/Privacy
+1,0,uses_support_channel,available,email,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,includes_warranty,not mentioned,null,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,writes_review,not mentioned,null,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,owns_account,not mentioned,null,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,places_order,not mentioned,null,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,The merchant,applies_to,every submitted request for a case reference number,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,The merchant,for,every submitted request,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,support_team,logs,communications,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,support_team,must_respond_within,published_service_levels,Customer Reviews & Moderation Policy — Electronics (US)/Contact & Support
+1,0,places_order,requires_payment_method,true,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,checkout,offers_feature,terms,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,order,covers_shipping,no (It must be noted tha...),Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,order,requires_payment_method,processor,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,payment,records_transaction,authorization,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,Order confirmation,sent,account email,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,Order confirmation,contains,transaction reference,Customer Reviews & Moderation Policy — Electronics (US)/Ordering & Checkout
+1,0,writes_review,customer,reviews,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,requires_payment_method,writes_review,reviews,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,writes_review,must,not (Reviews must focus o...),Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,writes_review,must,include,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,writes_review,must,personal,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,reviews,is_required_to_remove,violates_policy_or_applicable_law,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,policy,has_requirement,remove_reviews,Customer Reviews & Moderation Policy — Electronics (US)/Reviews
+1,0,subscription,activates,payment,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,subscription,renewals,automatically,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,customer,cancels,subscription,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,requires_payment_method,valid payment method,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,owns_account,account,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,uses_support_channel,support channel,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,account,includes_warranty,warranty,Customer Reviews & Moderation Policy — Electronics (US)/Subscription Lifecycle
+1,0,Warranty,includes,eligible electronics,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty,against,defects in materials and workmanship,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty coverage,is limited by,duration,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,Warranty coverage,does not include,accidental damage,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,claims,requires,proof_of_purchase,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,claims,may_require,inspection_by_an_authorized_center,Customer Reviews & Moderation Policy — Electronics (US)/Warranty
+1,0,shipping methods,provides,during checkout,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,shipping methods,displayed,before payment,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,shipping rates,provided,during checkout,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,shipping rates,displayed,before payment,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,Shipping status,includes,tracking links,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,Shipping status,includes,carrier updates,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,The merchant,is required to,investigate,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+1,0,shipping delays,with the carrier,when reported,Customer Reviews & Moderation Policy — Electronics (US)/Shipping Options
+9,0,account & access policy,includes,electronics purchases completed in the US storefront,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,account & access policy,applies_to,in-store orders,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,electronics sold directly by the merchant,applies_to,electronics,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,electronic items fulfilled by third parties,covered_by,marketplace items,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,"digital goods, gift cards, and personalized items",are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items fulfilled by third parties,includes_promotion,explicitly stated,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items fulfilled by third parties,covers_shipping,no (Marketplace items fu...),Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items fulfilled by third parties,offers_feature,yes (Marketplace items fu...),Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Marketplace items fulfilled by third parties,includes_warranty,no (Marketplace items fu...),Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Digital goods,are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Gift cards,are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,Personalized items,are subject to,additional restrictions,Account & Access Policy — Electronics (US)/Scope & Eligibility
+9,0,initiates_account_request,via,contact_form,Account & Access Policy — Electronics (US)/Process
+9,0,provides_order_number,with,order_number,Account & Access Policy — Electronics (US)/Process
+9,0,merchant,reviews,request,Account & Access Policy — Electronics (US)/Process
+9,0,request,must be reviewed,within 30 days,Account & Access Policy — Electronics (US)/Process
+9,0,request,communicates the decision,within 30 days,Account & Access Policy — Electronics (US)/Process
+9,0,customer,is_informed_of_next_steps_and_documents_required,next steps and any documents,Account & Access Policy — Electronics (US)/Process
+9,0,payment_method,requires_payment_method,Visa,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,payment_method,requires_payment_method,Apple Pay,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,payment_method,requires_payment_method,Mastercard,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,High-value orders,requires,additional verification,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,High-value orders,may require,3-D Secure,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,Refund,issued_to,original_payment_method,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,Payment,required_by,local_law,Account & Access Policy — Electronics (US)/Payment & Refunds
+9,0,return_shipment,must_be_dispatched_within,5_business_days_after_approval,Account & Access Policy — Electronics (US)/Timelines
+9,0,Refund,issued_within,10_business_days,Account & Access Policy — Electronics (US)/Timelines
+9,0,item,being_marked_as_received_and_inspected,10_business_days,Account & Access Policy — Electronics (US)/Timelines
+9,0,subscription cancellations,cancels,at the end of the current billing period,Account & Access Policy — Electronics (US)/Timelines
+9,0,used,includes,not eligible,Account & Access Policy — Electronics (US)/Exceptions
+9,0,damaged,includes,not eligible,Account & Access Policy — Electronics (US)/Exceptions
+9,0,missing accessories,includes,not eligible,Account & Access Policy — Electronics (US)/Exceptions
+9,0,manufacturing defect,is required for,eligible,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Perishable goods and hygiene-sensitive items in electronics,excludes,returns when opened,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,includes_promotion,bundles,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,may be refunded,refunds,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,at a prorated amount,amounts,Account & Access Policy — Electronics (US)/Exceptions
+9,0,Promotional bundles,with 25% deducted,deductions,Account & Access Policy — Electronics (US)/Exceptions
+9,0,US (Prices are displayed...),defines_delivery_zone,United States,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,US (Prices are displayed...),covers_shipping,United States,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,cross-border shipments,may incur,customs duties,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,carrier,collects,customs duties,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,local authority,collects,customs duties,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,customers,are_informed_of,right_to_withdraw,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,purchase,is_subject_to,statutory_period,Account & Access Policy — Electronics (US)/Regional Notes
+9,0,Customer data,processed to,fulfill transactions,Account & Access Policy — Electronics (US)/Privacy
+9,0,Customer data,processed to,provide customer support,Account & Access Policy — Electronics (US)/Privacy
+9,0,payment data,is_stored_by,PCI-compliant processors,Account & Access Policy — Electronics (US)/Privacy
+9,0,card numbers,are_not_retained_by,merchant,Account & Access Policy — Electronics (US)/Privacy
+9,0,customers,request_access_or_deletion_of_personal_data,personal data,Account & Access Policy — Electronics (US)/Privacy
+9,0,Customer support,uses_support_channel,live chat,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,includes_warranty,no warranty mentioned,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,owns_account,account is required to access order history and manage subscriptions,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,writes_review,no review mentioned,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,Customer support,supports_return,return shipment must be dispatched within 5 business days after approval,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The merchant,provides,a case reference number,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The merchant,for,every submitted request,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The support team,logs,communications,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,The support team,is required,to respond within published service levels,Account & Access Policy — Electronics (US)/Contact & Support
+9,0,customer,places_order,checkout,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,customer,confirms_acceptance,terms,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,payment_authorization,is_received_by,processor,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,order,is_placed,when,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,Order confirmation,sent_to,account_email,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,Order confirmation,contains,transaction_reference,Account & Access Policy — Electronics (US)/Ordering & Checkout
+9,0,subscription,activates,payment,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,subscription,renewals,automatically,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,customer,cancels,before,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,owns_account,requires_payment_method,valid payment method,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,owns_account,activates_subscription,successful payment and account association,Account & Access Policy — Electronics (US)/Subscription Lifecycle
+9,0,Warranty,includes,eligible electronics,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty,against,defects in materials and workmanship,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty coverage,includes,duration,Account & Access Policy — Electronics (US)/Warranty
+9,0,Warranty coverage,does not include,accidental damage,Account & Access Policy — Electronics (US)/Warranty
+9,0,claims,require,proof_of_purchase,Account & Access Policy — Electronics (US)/Warranty
+9,0,claims,require,inspection_by_authorized_center,Account & Access Policy — Electronics (US)/Warranty
+9,0,Promotion code,includes_promotion,single-use,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotion code,offers_feature,discounts,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotion code,cannot_be_combined_with,other discounts,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,includes_promotion,discount,Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,charges_tax,no (Discount is applied ...),Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,grants_refund,no (Discount is applied ...),Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,supports_return,no (Discount is applied ...),Account & Access Policy — Electronics (US)/Promotions
+9,0,Promotions,requires_payment_method,yes (Discount is applied ...),Account & Access Policy — Electronics (US)/Promotions
+9,0,coupons,includes,certain brands or categories,Account & Access Policy — Electronics (US)/Promotions
+9,0,offer terms,published in,coupons,Account & Access Policy — Electronics (US)/Promotions
+9,0,account,requires,access,Account & Access Policy — Electronics (US)/Account & Access
+9,0,account,owns,order_history,Account & Access Policy — Electronics (US)/Account & Access
+9,0,account,owns,subscriptions,Account & Access Policy — Electronics (US)/Account & Access
+9,0,account_email,owns_account,verified_account,Account & Access Policy — Electronics (US)/Account & Access
+9,0,support_notifications,uses_support_channel,account_email,Account & Access Policy — Electronics (US)/Account & Access
+9,0,Account & Access Policy — Electronics (US),owns_account,account,Account & Access Policy — Electronics (US)/Account & Access
+9,0,Account & Access Policy — Electronics (US),implements_security_measure,secure authentication and session management,Account & Access Policy — Electronics (US)/Account & Access
+10,0,subscription policy,applies_to,all beauty purchases completed in the CA storefront,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,subscription policy,is_applicable_to,both online and in-store orders,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,policy,applies_to,beauty,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,policy,applies_to,merchant,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,includes_promotion,explicitly stated,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,covers_shipping,no coverage specified,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,offers_feature,no feature mentioned,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,includes_warranty,no warranty mentioned,Subscription Policy — Beauty (CA)/Scope & Eligibility
+10,0,Marketplace items fulfilled by third parties,supports_return,return not supported,Subscription Policy — Beauty (CA)/Scope & Eligibility
+17,0,policy,applies_to,sporting goods,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,merchant,sells,sporting goods,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,Marketplace items,covers,fulfilled by third parties,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,Marketplace items,supports,return,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,Digital goods,are subject to,additional restrictions,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,gift cards,are subject to,additional restrictions,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,personalized items,are subject to,additional restrictions,Warranty Policy — Sporting Goods (CA)/Scope & Eligibility
+17,0,warranty_request,includes,process,Warranty Policy — Sporting Goods (CA)/Process
+17,0,phone_number,used_in,+1-555-0100,Warranty Policy — Sporting Goods (CA)/Process
+17,0,order_number,required_for,warranty_request,Warranty Policy — Sporting Goods (CA)/Process
+17,0,merchant,reviews,request,Warranty Policy — Sporting Goods (CA)/Process
+17,0,merchant,communicates,decision,Warranty Policy — Sporting Goods (CA)/Process
+17,0,customer,is_informed_of,next_steps_and_documents_required,Warranty Policy — Sporting Goods (CA)/Process
+17,0,customer,receives,approval,Warranty Policy — Sporting Goods (CA)/Process
+17,0,payment_method,requires,valid_payment_method,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,valid_payment_method,includes,Apple Pay,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,valid_payment_method,includes,Bank Transfer,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,valid_payment_method,includes,Visa,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,High-value orders,requires_payment_method,additional verification,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,High-value orders,implements_security_measure,3-D Secure,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,Refund,issued_to,original_payment_method,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,payment_method,required_by,local_law,Warranty Policy — Sporting Goods (CA)/Payment & Refunds
+17,0,return_shipment,must_be_dispatched_within,30_days_after_approval,Warranty Policy — Sporting Goods (CA)/Timelines
+17,0,refund,issued_within,item_being_marked_as_received_and_inspected,Warranty Policy — Sporting Goods (CA)/Timelines
+17,0,item_being_marked_as_received_and_inspected,being,14_days,Warranty Policy — Sporting Goods (CA)/Timelines
+17,0,subscription cancellations,takes_effect_at,end_of_current_billing_period,Warranty Policy — Sporting Goods (CA)/Timelines
+17,0,"Items that are used, damaged, or missing accessories",includes_warranty,false,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,"Items that are used, damaged, or missing accessories",supports_return,false,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,"Items that are used, damaged, or missing accessories",has_requirement,true,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,"Items that are used, damaged, or missing accessories",includes_promotion,false,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,Perishable goods and hygiene-sentive items in sporting goods,excludes,returns when opened,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,Promotional bundles,includes_promotion,bundles,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,Promotional bundles,may_be_refunded,amount,Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,Promotional bundles,deducts_percentage,15% (Promotional bundles ...),Warranty Policy — Sporting Goods (CA)/Exceptions
+17,0,prices,includes_tax,CA (Prices are displayed...),Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,prices,defined_by,applicable_taxes,Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,cross-border shipments,may incur,customs duties,Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,carrier,collects,customs duties,Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,local authority,collects,customs duties,Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,customers,are_informed_of,right_to_withdraw,Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,purchase,within,statutory_period,Warranty Policy — Sporting Goods (CA)/Regional Notes
+17,0,Customer data,processed by,fulfill transactions,Warranty Policy — Sporting Goods (CA)/Privacy
+17,0,Customer data,processed by,provide customer support,Warranty Policy — Sporting Goods (CA)/Privacy
+17,0,payment data,stored_by,PCI-compliant processors,Warranty Policy — Sporting Goods (CA)/Privacy
+17,0,full card numbers,is_not_retained_by,merchant,Warranty Policy — Sporting Goods (CA)/Privacy
+17,0,customers,may_request_access_or_deletion_of_personal_data,personal data,Warranty Policy — Sporting Goods (CA)/Privacy
+17,0,support@shop.local,uses_support_channel,email,Warranty Policy — Sporting Goods (CA)/Contact & Support
+17,0,support@shop.local,includes_warranty,policy,Warranty Policy — Sporting Goods (CA)/Contact & Support
+17,0,The merchant,provides,a case reference number,Warranty Policy — Sporting Goods (CA)/Contact & Support
+17,0,The merchant,for,every submitted request,Warranty Policy — Sporting Goods (CA)/Contact & Support
+17,0,support_team,logs,communications,Warranty Policy — Sporting Goods (CA)/Contact & Support
+17,0,support_team,is_required_to,respond_within_published_service_levels,Warranty Policy — Sporting Goods (CA)/Contact & Support
+17,0,writes_review,customer,purchased items,Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,moderation guidelines,reviews,customer,Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,Reviews,must,not (Reviews must focus o...),Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,Reviews,must,include,Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,Reviews,must,personal data,Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,reviews,requires,policy,Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,reviews,violates,law (The platform is requ...),Warranty Policy — Sporting Goods (CA)/Reviews
+17,0,subscription,activates,subscription,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,payment,is_required_for,account_association,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,subscription,renewals,automatically,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,customer,cancels_subscription,before_renewal_date,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,account,requires_payment_method,valid payment method,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,account,owns_account,account,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,account,uses_support_channel,support channel,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,account,includes_warranty,warranty,Warranty Policy — Sporting Goods (CA)/Subscription Lifecycle
+17,0,Warranty Policy — Sporting Goods (CA),supports_return,eligible sporting goods against defects in materials and workmanship,Warranty Policy — Sporting Goods (CA)/Warranty
+17,0,Warranty coverage,is limited by,duration,Warranty Policy — Sporting Goods (CA)/Warranty
+17,0,Warranty coverage,does not include,accidental damage,Warranty Policy — Sporting Goods (CA)/Warranty
+17,0,claims,require,proof_of_purchase,Warranty Policy — Sporting Goods (CA)/Warranty
+17,0,claims,require,inspection_by_authorized_center,Warranty Policy — Sporting Goods (CA)/Warranty
+17,0,Promotion codes,includes_promotion,single-use,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,Promotion codes,offers_feature,discounts,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,Promotion codes,cannot_be_combined_with,other discounts,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,Promotions,includes_promotion,discount,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,Promotions,charges_tax,no (Discount is applied ...),Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,Promotions,grants_refund,yes (Discount is applied ...),Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,Promotions,supports_return,yes (Discount is applied ...),Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,coupons,includes,offers_feature,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,offer_terms,includes,offers_feature,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,brands,excluded_by,offers_feature,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,categories,excluded_by,offers_feature,Warranty Policy — Sporting Goods (CA)/Promotions
+17,0,shipping methods,provided,during checkout,Warranty Policy — Sporting Goods (CA)/Shipping Options
+17,0,shipping rates,displayed,before payment,Warranty Policy — Sporting Goods (CA)/Shipping Options
+17,0,Shipping status,includes,tracking links,Warranty Policy — Sporting Goods (CA)/Shipping Options
+17,0,Shipping status,includes,carrier updates,Warranty Policy — Sporting Goods (CA)/Shipping Options
+17,0,The merchant,is required to,investigate shipping delays,Warranty Policy — Sporting Goods (CA)/Shipping Options
+17,0,The merchant,covers,shipping delays with the carrier when reported.,Warranty Policy — Sporting Goods (CA)/Shipping Options
+25,0,data privacy policy,applies to,all beauty purchases completed in the eu storefront,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,data privacy policy,is designed for,customers and the merchant,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,data privacy policy,is applicable to,both online and in-store orders,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,policy,applies_to,beauty,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,beauty,sold_directly_by,merchant,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,Marketplace items fulfilled by third parties,offers,explicitly stated,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,Marketplace items fulfilled by third parties,covers,shipping,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,Marketplace items fulfilled by third parties,includes,warranty,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,Marketplace items fulfilled by third parties,supports,return,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,Digital goods,subject,additional restrictions,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,gift cards,subject,additional restrictions,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,personalized items,subject,additional restrictions,Data Privacy Policy — Beauty (EU)/Scope & Eligibility
+25,0,initiates_data_request,via_phone,+1-555-0100,Data Privacy Policy — Beauty (EU)/Process
+25,0,requires_order_number,for,data_request,Data Privacy Policy — Beauty (EU)/Process
+25,0,It must be noted that the merchant reviews the request within 3 business days and communicates the decision.,reviewed_by,merchant,Data Privacy Policy — Beauty (EU)/Process
+25,0,customer,is informed of,next steps and any documents required,Data Privacy Policy — Beauty (EU)/Process
+25,0,customer,must provide,order number,Data Privacy Policy — Beauty (EU)/Process
+25,0,payment_method,requires_payment_method,Apple Pay,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,payment_method,requires_payment_method,Bank Transfer,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,payment_method,requires_payment_method,AmEx,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,High-value orders,requires_payment_method,additional verification,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,High-value orders,implements_security_measure,3-D Secure,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,Refund,issued_to,original_payment_method,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,payment_method,required_for_refund,true,Data Privacy Policy — Beauty (EU)/Payment & Refunds
+25,0,return_shipment,must_be_dispatched_within,3_business_days_after_approval,Data Privacy Policy — Beauty (EU)/Timelines
+25,0,refund,issued_within,5 business days,Data Privacy Policy — Beauty (EU)/Timelines
+25,0,item,marked_as_received_and_inspected,5 business days,Data Privacy Policy — Beauty (EU)/Timelines
+25,0,subscription cancellations,takes effect,at the end of the current billing period,Data Privacy Policy — Beauty (EU)/Timelines
+25,0,"Items that are used, damaged, or missing accessories",includes,not eligible,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,"Items that are used, damaged, or missing accessories",has_requirement,manufacturing defect is verified,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,Perishable goods and hygiene-sensitive items in beauty,are excluded from returns,when opened,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,promotional bundles,includes_promotion,refunds,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,promotional bundles,grants_refund,prorated_amount,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,promotional bundles,supports_return,items,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,promotional bundles,offers_feature,missing,Data Privacy Policy — Beauty (EU)/Exceptions
+25,0,prices,includes_tax,EU (Prices are displayed...),Data Privacy Policy — Beauty (EU)/Regional Notes
+25,0,customs duties,includes,cross-border shipments,Data Privacy Policy — Beauty (EU)/Regional Notes
+25,0,carrier,collects,customs duties,Data Privacy Policy — Beauty (EU)/Regional Notes
+25,0,local authority,collects,customs duties,Data Privacy Policy — Beauty (EU)/Regional Notes
+25,0,customers,are_informed_of,right_to_withdraw,Data Privacy Policy — Beauty (EU)/Regional Notes
+25,0,purchase,is_required_by_law,within_a_statutory_period,Data Privacy Policy — Beauty (EU)/Regional Notes
+25,0,Transaction data,recorded by,customer support,Data Privacy Policy — Beauty (EU)/Privacy
+25,0,customer data,processed by,provide customer support,Data Privacy Policy — Beauty (EU)/Privacy
+25,0,Payment data,stored_by,PCI-compliant processors,Data Privacy Policy — Beauty (EU)/Privacy
+25,0,card numbers,are_not_retained_by,merchant,Data Privacy Policy — Beauty (EU)/Privacy
+25,0,customers,request_access_or_deletion_of_personal_data,personal data,Data Privacy Policy — Beauty (EU)/Privacy
+25,0,uses_support_channel,customer support,live chat,Data Privacy Policy — Beauty (EU)/Contact & Support
+25,0,The merchant,applies_to,a case reference number for every submitted request,Data Privacy Policy — Beauty (EU)/Contact & Support
+25,0,The merchant,applies_to,every submitted request,Data Privacy Policy — Beauty (EU)/Contact & Support
+25,0,The support team,logs,communications,Data Privacy Policy — Beauty (EU)/Contact & Support
+25,0,The support team,is required,to respond within published service levels,Data Privacy Policy — Beauty (EU)/Contact & Support
+25,0,writes_review,customer,purchased items,Data Privacy Policy — Beauty (EU)/Reviews
+25,0,writes_review,must,not (Reviews must focus o...),Data Privacy Policy — Beauty (EU)/Reviews
+25,0,writes_review,must,include,Data Privacy Policy — Beauty (EU)/Reviews
+25,0,writes_review,must,personal,Data Privacy Policy — Beauty (EU)/Reviews
+25,0,The platform,requires,reviews that violate policy or applicable law,Data Privacy Policy — Beauty (EU)/Reviews
+25,0,The platform,removes,reviews,Data Privacy Policy — Beauty (EU)/Reviews
+25,0,Reviews,violates,applicable law,Data Privacy Policy — Beauty (EU)/Reviews
+25,0,subscription,activates,immediately_after_successful_payment_and_account_association,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,subscription,renews,automatically,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,customer,cancels,before,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,account,requires_payment_method,valid payment method,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,account,owns_account,account,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,account,activates_subscription,subscription,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,account,uses_support_channel,support channel,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,account,includes_warranty,warranty,Data Privacy Policy — Beauty (EU)/Subscription Lifecycle
+25,0,account,owns,order_history,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,owns,subscriptions,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,must_be,verified_email,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,owns,email,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,owns_account,account,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,requires_payment_method,payment method,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,uses_support_channel,support channel,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,writes_review,review,Data Privacy Policy — Beauty (EU)/Account & Access
+25,0,account,implements_security_measure,security measure,Data Privacy Policy — Beauty (EU)/Account & Access
+26,0,Customer Reviews & Moderation Policy — Apparel (APAC),applies_to,apparel purchases completed in the APAC storefront,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,apparel,includes_promotion,merchant,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,apparel,includes_warranty,merchant,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,apparel,charges_tax,APAC,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,apparel,requires_payment_method,PayPal,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,apparel,requires_payment_method,Bank Transfer,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,apparel,requires_payment_method,Mastercard,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,order,places_order,merchant,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,Marketplace items fulfilled by third parties,includes_promotion,explicitly stated,Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,Marketplace items fulfilled by third parties,covers_shipping,no (Account access is co...),Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,Marketplace items fulfilled by third parties,offers_feature,yes (Account access is co...),Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+26,0,Marketplace items fulfilled by third parties,includes_warranty,no (Account access is co...),Customer Reviews & Moderation Policy — Apparel (APAC)/Scope & Eligibility
+33,0,account & access policy,applies_to,all sporting goods purchases completed in the US storefront,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,account & access policy,is_applicable_to,both online and in-store orders,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,policy,applies_to,sporting goods,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,merchant,sells,sporting goods,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,Marketplace items fulfilled by third parties are covered only if explicitly stated.,fulfilled_by_third_party,covered,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,Marketplace items,covers_shipping,fulfilled by third parties,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,Marketplace items,offers_feature,fulfilled by third parties,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,Marketplace items,includes_warranty,fulfilled by third parties,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,Marketplace items,supports_return,fulfilled by third parties,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,Digital goods,subject_to,additional restrictions,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,gift cards,subject_to,additional restrictions,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,personalized items,subject_to,additional restrictions,Account & Access Policy — Sporting Goods (US)/Scope & Eligibility
+33,0,initiates_account_request,via_phone,+1-555-0100,Account & Access Policy — Sporting Goods (US)/Process
+33,0,provides_order_number,with,order_number,Account & Access Policy — Sporting Goods (US)/Process
+33,0,requests,must be reviewed by,merchant,Account & Access Policy — Sporting Goods (US)/Process
+33,0,requests,within,5 business days,Account & Access Policy — Sporting Goods (US)/Process
+33,0,requests,communicates,decision,Account & Access Policy — Sporting Goods (US)/Process
+33,0,next steps,informed of,customer,Account & Access Policy — Sporting Goods (US)/Process
+33,0,documents required,informed of,customer,Account & Access Policy — Sporting Goods (US)/Process
+33,0,payment_method,requires_payment_method,Visa,Account & Access Policy — Sporting Goods (US)/Payment & Refunds
+33,0,payment_method,requires_payment_method,Apple Pay,Account & Access Policy — Sporting Goods (US)/Payment & Refunds
+33,0,payment_method,requires_payment_method,Bank Transfer,Account & Access Policy — Sporting Goods (US)/Payment & Refunds
+33,0,High-value orders,requires_payment_method,additional verification,Account & Access Policy — Sporting Goods (US)/Payment & Refunds
+33,0,High-value orders,implements_security_measure,3-D Secure,Account & Access Policy — Sporting Goods (US)/Payment & Refunds
+33,0,Refund,issued_to,original_payment_method,Account & Access Policy — Sporting Goods (US)/Payment & Refunds
+33,0,return_shipment,must_be_dispatched_within,7_days_after_approval,Account & Access Policy — Sporting Goods (US)/Timelines
+33,0,refund,issued_within,14_days_of_item_being_marked_as_received_and_inspected,Account & Access Policy — Sporting Goods (US)/Timelines
+33,0,item,being_marked_as_received_and_inspected,14_days,Account & Access Policy — Sporting Goods (US)/Timelines
+33,0,subscription cancellations,cancels,at the end of the current billing period,Account & Access Policy — Sporting Goods (US)/Timelines
+33,0,used items,does not support return,not eligible,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,damaged items,does not support return,not eligible,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,missing accessories,does not support return,not eligible,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,manufacturing defect,supports return,eligible,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,Perishable goods and hygiene-sensitivity items in sporting goods,excluded from returns,when opened,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,Promotional bundles,includes_promotion,bundles,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,Promotional bundles,may_refund,bundles,Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,Promotional bundles,deducts_amount,20% (Promotional bundles ...),Account & Access Policy — Sporting Goods (US)/Exceptions
+33,0,prices,includes_tax,US (Prices are displayed...),Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,prices,includes_promotion,otherwise,Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,cross-border shipments,may incur,customs duties,Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,carrier,collects,customs duties,Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,local authority,collects,customs duties,Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,customers,are_informed_of,right_to_withdraw,Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,purchase,is_subject_to,statutory_period,Account & Access Policy — Sporting Goods (US)/Regional Notes
+33,0,Customer data,records_transaction,fulfill transactions,Account & Access Policy — Sporting Goods (US)/Privacy
+33,0,customer data,processed,provide customer support,Account & Access Policy — Sporting Goods (US)/Privacy
+33,0,Payment data,stored_by,PCI-compliant processors,Account & Access Policy — Sporting Goods (US)/Privacy
+33,0,card numbers,are_not_retained_by,merchant,Account & Access Policy — Sporting Goods (US)/Privacy
+33,0,customers,may_request_access_or_deletion_of_personal_data,personal data,Account & Access Policy — Sporting Goods (US)/Privacy
+33,0,customers,are_subject_to_retention_obligations,retention obligations,Account & Access Policy — Sporting Goods (US)/Privacy
+33,0,Contact & Support,uses_support_channel,/support/requests,Account & Access Policy — Sporting Goods (US)/Contact & Support
+33,0,The merchant,provides,a case reference number,Account & Access Policy — Sporting Goods (US)/Contact & Support
+33,0,The merchant,for,every submitted request,Account & Access Policy — Sporting Goods (US)/Contact & Support
+33,0,The support team,requires,published service level responses,Account & Access Policy — Sporting Goods (US)/Contact & Support
+33,0,writes_review,customer,purchased items,Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,moderation,reviews,guidelines,Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,Reviews,must,not (Reviews must focus o...),Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,Reviews,must,include,Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,reviews,requires,remove,Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,policy,violates,reviews,Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,law (The platform is requ...),violates,reviews,Account & Access Policy — Sporting Goods (US)/Reviews
+33,0,subscription,activates,payment,Account & Access Policy — Sporting Goods (US)/Subscription Lifecycle
+33,0,subscription,renewals,automatically,Account & Access Policy — Sporting Goods (US)/Subscription Lifecycle
+33,0,customer,cancels,before,Account & Access Policy — Sporting Goods (US)/Subscription Lifecycle
+33,0,account,requires_payment_method,valid payment method,Account & Access Policy — Sporting Goods (US)/Subscription Lifecycle
+33,0,account,owns_account,account,Account & Access Policy — Sporting Goods (US)/Subscription Lifecycle
+33,0,account,activates_subscription,subscription,Account & Access Policy — Sporting Goods (US)/Subscription Lifecycle
+33,0,Promotion code,includes_promotion,single-use,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,Promotion code,offers_feature,discounts,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,Promotions,includes_promotion,single-use,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,Promotions,charges_tax,false,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,Promotions,grants_refund,false,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,Promotions,supports_return,false,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,Promotions,requires_payment_method,true,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,coupons,includes,certain brands or categories,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,offer terms,includes,certain brands or categories,Account & Access Policy — Sporting Goods (US)/Promotions
+33,0,shipping methods,provides,during checkout,Account & Access Policy — Sporting Goods (US)/Shipping Options
+33,0,shipping rates,are displayed,before payment,Account & Access Policy — Sporting Goods (US)/Shipping Options
+33,0,shipping status,includes,tracking links,Account & Access Policy — Sporting Goods (US)/Shipping Options
+33,0,shipping status,includes,carrier updates,Account & Access Policy — Sporting Goods (US)/Shipping Options
+33,0,The merchant is required to investigate shipping delays with the carrier when reported.,requires,investigation,Account & Access Policy — Sporting Goods (US)/Shipping Options
+33,0,account,requires,access,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,account,owns,order_history,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,account,owns,subscriptions,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,account_email,must_be,verified,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,order_notifications,require,verified,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,support_notifications,require,verified,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,Account access,controlled by,secure authentication and session management,Account & Access Policy — Sporting Goods (US)/Account & Access
+33,0,Account access,is managed by,session management,Account & Access Policy — Sporting Goods (US)/Account & Access
+34,0,Customer Reviews & Moderation Policy — Sporting Goods (APAC),applies_to,all sporting goods purchases completed in the APAC storefront,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,sporting goods,applies_to,merchant,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,marketplace items fulfilled by third parties,covers_only_if,explicitly stated,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,digital goods,is_subject_to,additional restrictions,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,Marketplace items fulfilled by third parties,includes_promotion,explicitly stated,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,Marketplace items fulfilled by third parties,covers_shipping,no information,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,Marketplace items fulfilled by third parties,offers_feature,no information,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,Marketplace items fulfilled by third parties,includes_warranty,no information,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+34,0,Marketplace items fulfilled by third parties,supports_return,only if,Customer Reviews & Moderation Policy — Sporting Goods (APAC)/Scope & Eligibility
+41,0,apparel sold directly by the merchant,includes,Subscription Policy — Apparel (US),Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,subscription_policy,is_applicable_to,in_store_orders,Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,apparel sold directly by the merchant,applies to,apparel,Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,Marketplace items fulfilled by third parties,includes,explicitly stated,Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,Digital goods,are subject to,additional restrictions,Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,gift cards,are subject to,additional restrictions,Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,personalized items,are subject to,additional restrictions,Subscription Policy — Apparel (US)/Scope & Eligibility
+41,0,initiates_subscription_request,via,contact_form,Subscription Policy — Apparel (US)/Process
+41,0,requires_order_number,for,subscription_request,Subscription Policy — Apparel (US)/Process
+41,0,requests,must be reviewed by,merchant,Subscription Policy — Apparel (US)/Process
+41,0,merchant reviews request,writes_review,communicates decision outcome,Subscription Policy — Apparel (US)/Process
+41,0,customer,receives,next_steps_and_documents_required,Subscription Policy — Apparel (US)/Process
+41,0,payment_method,requires,Apple Pay,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,payment_method,requires,Bank Transfer,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,payment_method,requires,Mastercard,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,High-value orders,requires_additional_verification,additional verification,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,High-value orders,may_require_3D_Secure,3-D Secure,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,Refund,issued_to,original_payment_method,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,Payment Method,requires,local_law,Subscription Policy — Apparel (US)/Payment & Refunds
+41,0,return_shipment,must_be_dispatched_within,14_days_after_approval,Subscription Policy — Apparel (US)/Timelines
+41,0,Refund,issued_within,10_business_days_of_the_item_being_marked_as_received_and_inspected,Subscription Policy — Apparel (US)/Timelines
+41,0,item,being_marked_as_received_and_inspected,Refund,Subscription Policy — Apparel (US)/Timelines
+41,0,subscription cancellations,takes_effect_at,end_of_current_billing_period,Subscription Policy — Apparel (US)/Timelines
+41,0,subscription,cancels,at (It must be noted tha...),Subscription Policy — Apparel (US)/Timelines
+41,0,"Items that are used, damaged, or missing accessories",has_requirement,a manufacturing defect is verified,Subscription Policy — Apparel (US)/Exceptions
+41,0,Perishable goods and hygiene-sensitivity items in apparel,excludes,returns when opened,Subscription Policy — Apparel (US)/Exceptions
+41,0,items in apparel,are excluded,from returns when opened,Subscription Policy — Apparel (US)/Exceptions
+41,0,Promotional bundles,grants_refund,prorated,Subscription Policy — Apparel (US)/Exceptions
+41,0,Promotional bundles,charges_tax,amount,Subscription Policy — Apparel (US)/Exceptions
+41,0,Promotional bundles,supports_return,items,Subscription Policy — Apparel (US)/Exceptions
+41,0,Promotional bundles,offers_feature,bundles,Subscription Policy — Apparel (US)/Exceptions
+41,0,prices,includes_tax,US (Prices are displayed...),Subscription Policy — Apparel (US)/Regional Notes
+41,0,prices,is_displayed_inclusive_of,applicable_taxes_in_the_US,Subscription Policy — Apparel (US)/Regional Notes
+41,0,cross-border shipments,may incur,customs duties,Subscription Policy — Apparel (US)/Regional Notes
+41,0,carrier,collects,customs duties,Subscription Policy — Apparel (US)/Regional Notes
+41,0,local authority,collects,customs duties,Subscription Policy — Apparel (US)/Regional Notes
+41,0,customers,are_informed_of,right_to_withdraw,Subscription Policy — Apparel (US)/Regional Notes
+41,0,purchase,is_subject_to,statutory_period,Subscription Policy — Apparel (US)/Regional Notes
+41,0,customer data,processed,fulfill transactions,Subscription Policy — Apparel (US)/Privacy
+41,0,customer data,processed,provide customer support,Subscription Policy — Apparel (US)/Privacy
+41,0,payment data,stored by,PCI-compliant processors,Subscription Policy — Apparel (US)/Privacy
+41,0,merchant,does not retain,full card numbers,Subscription Policy — Apparel (US)/Privacy
+41,0,customers,may_request_access_or_deletion_of_personal_data,personal data,Subscription Policy — Apparel (US)/Privacy
+41,0,customers,is_subject_to_retention_obligations,retention obligations,Subscription Policy — Apparel (US)/Privacy
+41,0,uses_support_channel,Customer support,/support/requests,Subscription Policy — Apparel (US)/Contact & Support
+41,0,supports_return,Customer support,policy questions and case updates,Subscription Policy — Apparel (US)/Contact & Support
+41,0,The merchant,provides,a case reference number,Subscription Policy — Apparel (US)/Contact & Support
+41,0,The merchant,for,every submitted request,Subscription Policy — Apparel (US)/Contact & Support
+41,0,The support team,logs,communications,Subscription Policy — Apparel (US)/Contact & Support
+41,0,The support team,is required,to respond within published service levels,Subscription Policy — Apparel (US)/Contact & Support
+41,0,places_order,requires_payment_method,checkout,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,places_order,offers_feature,terms,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,places_order,covers_shipping, (It must be noted tha...),Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,places_order,supports_return, (It must be noted tha...),Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,requires_payment_method,offers_feature,checkout,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,order,places,payment,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,payment,requires,authorization,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,authorization,received_by,processor,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,Order confirmation,sent,account email,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,transaction reference,sent,account email,Subscription Policy — Apparel (US)/Ordering & Checkout
+41,0,payment method,activates,subscription,Subscription Policy — Apparel (US)/Subscription Lifecycle
+41,0,subscription,renews,automatically,Subscription Policy — Apparel (US)/Subscription Lifecycle
+41,0,customer,expires,renewal date,Subscription Policy — Apparel (US)/Subscription Lifecycle
+41,0,account,requires_payment_method,valid payment method,Subscription Policy — Apparel (US)/Subscription Lifecycle
+41,0,account,owns_account,account,Subscription Policy — Apparel (US)/Subscription Lifecycle
+41,0,Promotion code,offers_feature,single-use,Subscription Policy — Apparel (US)/Promotions
+41,0,Promotion code,cannot be combined with other discounts,discounts,Subscription Policy — Apparel (US)/Promotions
+41,0,Promotions,includes_promotion,Discount,Subscription Policy — Apparel (US)/Promotions
+41,0,Promotions,charges_tax,false,Subscription Policy — Apparel (US)/Promotions
+41,0,Promotions,grants_refund,true,Subscription Policy — Apparel (US)/Promotions
+41,0,Promotions,supports_return,true,Subscription Policy — Apparel (US)/Promotions
+41,0,Promotions,requires_payment_method,true,Subscription Policy — Apparel (US)/Promotions
+41,0,coupons,includes,certain brands or categories,Subscription Policy — Apparel (US)/Promotions
+41,0,offer terms,includes,certain brands or categories,Subscription Policy — Apparel (US)/Promotions
+41,0,account,requires,access,Subscription Policy — Apparel (US)/Account & Access
+41,0,account,owns,order_history,Subscription Policy — Apparel (US)/Account & Access
+41,0,account,owns,subscriptions,Subscription Policy — Apparel (US)/Account & Access
+41,0,account_email,owns_account,verified_account,Subscription Policy — Apparel (US)/Account & Access
+41,0,account_email,receives_notifications,order_support,Subscription Policy — Apparel (US)/Account & Access
+41,0,account_email,requires_verification,verified,Subscription Policy — Apparel (US)/Account & Access
+41,0,Account,owns_account,account,Subscription Policy — Apparel (US)/Account & Access
+41,0,Account,implements_security_measure,authentication,Subscription Policy — Apparel (US)/Account & Access
+41,0,Account,requires_payment_method,payment method,Subscription Policy — Apparel (US)/Account & Access
+41,0,Account,uses_support_channel,support channel,Subscription Policy — Apparel (US)/Account & Access
+41,0,Account,writes_review,review,Subscription Policy — Apparel (US)/Account & Access
+42,0,payment_policy,applies_to,grocery_purchases,Payment Policy — Grocery (EU)/Scope & Eligibility
+42,0,payment_policy,is_applicable_to,online_orders,Payment Policy — Grocery (EU)/Scope & Eligibility
+42,0,payment_policy,is_applicable_to,in_store_orders,Payment Policy — Grocery (EU)/Scope & Eligibility
+42,0,It must be noted that the policy applies to grocery sold directly by the merchant.,relation,grocery sold directly by the merchant,Payment Policy — Grocery (EU)/Scope & Eligibility
+42,0,Marketplace items fulfilled by third parties are covered only if explicitly stated.,covers,shipping costs,Payment Policy — Grocery (EU)/Scope & Eligibility
+42,0,Marketplace items,covers,third parties,Payment Policy — Grocery (EU)/Scope & Eligibility
+49,0,Tax Policy — Sporting Goods (UK),applies_to,sporting goods sold directly by the merchant,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,tax_policy,is_applicable_to,online_orders,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,tax_policy,is_applicable_to,in_store_orders,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Scope & Eligibility,includes_promotion, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Scope & Eligibility,applies_to, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Scope & Eligibility,includes_warranty, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Scope & Eligibility,places_order, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Scope & Eligibility,defines_delivery_zone, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Marketplace items fulfilled by third-party sellers are covered only if explicitly stated,covered_by,third-party seller guarantees,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Marketplace items,covered,explicitly stated,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,digital goods,are subject to,additional restrictions,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,gift cards,are subject to,additional restrictions,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,personalized items,are subject to,additional restrictions,Tax Policy — Sporting Goods (UK)/Scope & Eligibility
+49,0,Customer,initiates_tax_request,+1-555-0100,Tax Policy — Sporting Goods (UK)/Process
+49,0,Customer,provides_order_number,order number,Tax Policy — Sporting Goods (UK)/Process
+49,0,merchant,reviews,request,Tax Policy — Sporting Goods (UK)/Process
+49,0,merchant,communicates,decision,Tax Policy — Sporting Goods (UK)/Process
+49,0,next_steps,are_required_for,approved_customer,Tax Policy — Sporting Goods (UK)/Process
+49,0,payment_method,requires,Visa,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,payment_method,requires,AmEx,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,payment_method,requires,Apple Pay,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,High-value orders,requires_payment_method,Visa,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,High-value orders,requires_payment_method,AmEx,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,High-value orders,requires_payment_method,Apple Pay,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,High-value orders,implements_security_measure,3‑D Secure,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,Refunds,issued_to,original_payment_method,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,Refunds,issue_date,30 days of the item being marked as received and inspected,Tax Policy — Sporting Goods (UK)/Payment & Refunds
+49,0,return_shipment,must_be_dispatched_within,14_days_after_approval,Tax Policy — Sporting Goods (UK)/Timelines
+49,0,Refund,issued_within,30 days of the item being marked as received and inspected,Tax Policy — Sporting Goods (UK)/Timelines
+49,0,item,being_marked_as_received_and_inspected,within 30 days,Tax Policy — Sporting Goods (UK)/Timelines
+49,0,subscription cancellations,ends with,end of the current billing period,Tax Policy — Sporting Goods (UK)/Timelines
+49,0,"Items that are used, damaged, or missing accessories",includes_exception,are not eligible,Tax Policy — Sporting Goods (UK)/Exceptions
+49,0,"Items that are used, damaged, or missing accessories",has_requirement,manufacturing defect is verified,Tax Policy — Sporting Goods (UK)/Exceptions
+49,0,Perishable goods and hygiene-sentive items in sporting goods,excluded from returns,when opened,Tax Policy — Sporting Goods (UK)/Exceptions
+49,0,Promotional bundles,may be refunded,at a prorated amount with 20% deducted,Tax Policy — Sporting Goods (UK)/Exceptions
+49,0,Promotional bundles,are subject to,items being missing,Tax Policy — Sporting Goods (UK)/Exceptions
+49,0,prices,includes_tax,UK (Prices are displayed...),Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,prices,displayed_with_tax,inclusively,Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,cross-border shipments,may incur,customs duties,Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,carrier,collects,duties,Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,local authority,collects,duties,Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,customers,are_informed_of,right_to_withdraw,Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,purchase,is_within,statutory_period,Tax Policy — Sporting Goods (UK)/Regional Notes
+49,0,customer data,processed for,fulfill transactions,Tax Policy — Sporting Goods (UK)/Privacy
+49,0,customer data,processed for,provide customer support,Tax Policy — Sporting Goods (UK)/Privacy
+49,0,payment_data,stored_by,PCI-compliant_processors,Tax Policy — Sporting Goods (UK)/Privacy
+49,0,card_numbers,not_retained_by,merchant,Tax Policy — Sporting Goods (UK)/Privacy
+49,0,customers,request_access_or_deletion_of_personal_data,personal data,Tax Policy — Sporting Goods (UK)/Privacy
+49,0,Contact & Support,uses_support_channel,live chat,Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,Contact & Support,includes_warranty, (Customer support is ...),Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,Contact & Support,owns_account, (Customer support is ...),Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,Contact & Support,writes_review, (Customer support is ...),Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,Contact & Support,supports_return, (Customer support is ...),Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,The merchant provides a case reference number for every submitted request.,provides,request,Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,The support team,logs,communications,Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,The support team,is required to,respond within published service levels,Tax Policy — Sporting Goods (UK)/Contact & Support
+49,0,places_order,requires_payment_method,checkout,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,places_order,offers_feature,terms,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,places_order,covers_shipping, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,places_order,supports_return, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,requires_payment_method,offers_feature,checkout,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,requires_payment_method,covers_shipping, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,requires_payment_method,supports_return, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,offers_feature,covers_shipping, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,offers_feature,supports_return, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,covers_shipping,supports_return, (It must be noted tha...),Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,payment_authorization,is_received_by,processor,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,order,is_placed,when,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,order confirmation,sent,account email,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,transaction reference,sent,account email,Tax Policy — Sporting Goods (UK)/Ordering & Checkout
+49,0,writes_review,customer,purchased items,Tax Policy — Sporting Goods (UK)/Reviews
+49,0,Reviews,must,not (Reviews must focus o...),Tax Policy — Sporting Goods (UK)/Reviews
+49,0,Reviews,must,include,Tax Policy — Sporting Goods (UK)/Reviews
+49,0,reviews,requires,policy,Tax Policy — Sporting Goods (UK)/Reviews
+49,0,reviews,requires,applicable law,Tax Policy — Sporting Goods (UK)/Reviews
+49,0,subscription,activates,payment,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,subscription,renews,automatically,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,customer,cancels,before,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,account,requires_payment_method,valid payment method,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,account,owns_account,account,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,account,uses_support_channel,support channel,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,account,includes_warranty,warranty,Tax Policy — Sporting Goods (UK)/Subscription Lifecycle
+49,0,Promotion code,offers_feature,single-use,Tax Policy — Sporting Goods (UK)/Promotions
+49,0,Promotion code,cannot be combined with other discounts,discounts,Tax Policy — Sporting Goods (UK)/Promotions
+49,0,Promotions,includes_promotion,discount,Tax Policy — Sporting Goods (UK)/Promotions
+49,0,Promotions,discount,is_applied_at_checkout,Tax Policy — Sporting Goods (UK)/Promotions
+49,0,coupons,includes,certain brands or categories,Tax Policy — Sporting Goods (UK)/Promotions
+49,0,offer terms,includes,certain brands or categories,Tax Policy — Sporting Goods (UK)/Promotions

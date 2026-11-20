@@ -1,0 +1,33 @@
+# DERMC framework  Core Dependencies
+# Essential packages for the  DERMC  pipeline
+
+# Core ML/NLP Packages
+torch
+transformers
+sentence-transformers
+spacy
+fastcoref
+scikit-learn
+matplotlib  
+seaborn 
+
+# Data Processing
+pandas
+numpy
+tqdm
+
+# API and Networking
+openai
+httpx
+python-dotenv
+
+# Language Detection and Utilities
+langdetect
+python-dateutil
+
+
+
+# SpaCy Models (install separately with spacy download)
+# en_core_web_sm
+# en_core_web_trf
+

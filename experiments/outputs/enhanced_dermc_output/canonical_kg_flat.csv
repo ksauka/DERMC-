@@ -1,0 +1,408 @@
+Doc ID,Answer ID,Subject,Subject Type,Relation,Object,Object Type,Hierarchy,Ontology Version
+doc_1,ans_1,Item,,has_requirement,unused,,Eligibility,1.0
+doc_1,ans_1,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_1,ans_1,#NAME?,,includes_warranty,False,,#NAME?,1.0
+doc_1,ans_1,#NAME?,,processes_data,True,,#NAME?,1.0
+doc_1,ans_1,#NAME?,,applies_to,Order #21085,CARDINAL,#NAME?,1.0
+doc_1,ans_1,#NAME?,,supports_return,True,,#NAME?,1.0
+doc_1,ans_1,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_1,ans_1,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_1,ans_1,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_1,ans_1,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_1,ans_1,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_9,ans_9,Items,,has_requirement,unused,,Eligibility,1.0
+doc_9,ans_9,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_9,ans_9,#NAME?,,includes_warranty,false,,#NAME?,1.0
+doc_9,ans_9,#NAME?,,processes_data,true,,#NAME?,1.0
+doc_9,ans_9,#NAME?,,applies_to,Order #55504,CARDINAL,#NAME?,1.0
+doc_9,ans_9,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_9,ans_9,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_9,ans_9,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_9,ans_9,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_9,ans_9,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_9,ans_9,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_17,ans_17,Items,,has_requirement,unused,,Eligibility,1.0
+doc_17,ans_17,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_17,ans_17,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_17,ans_17,Refund processing time,,applies_to,5-7 business days,DATE,#NAME?,1.0
+doc_17,ans_17,Digital products,,is_#NAME?/Exc,non-refundable,,#NAME?/Exceptions,1.0
+doc_17,ans_17,Perishable goods,,are,excluded,,#NAME?/Exceptions,1.0
+doc_17,ans_17,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_17,ans_17,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_17,ans_17,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_25,ans_25,taxes individual consumers,,charges_tax,summer painting,,Eligibility,1.0
+doc_25,ans_25,painting,,is_Eligibilit,tax (Teacher recent regio...),,Eligibility,1.0
+doc_25,ans_25,Items,,has_requirement,unused,,Eligibility,1.0
+doc_25,ans_25,items,,must be returned within 30 days,within 30 days,DATE,Eligibility,1.0
+doc_25,ans_25,Story,,has_a,relationship,,Refund Method,1.0
+doc_25,ans_25,Story,,is_related_to,form,,Refund Method,1.0
+doc_25,ans_25,Story,,is_related_to,career,,Refund Method,1.0
+doc_25,ans_25,Talk,,has_a,relationship,,Refund Method,1.0
+doc_25,ans_25,Talk,,is_related_to,debate,,Refund Method,1.0
+doc_25,ans_25,Doctor,,has_a,relationship,,Refund Method,1.0
+doc_25,ans_25,Doctor,,is_related_to,water,,Refund Method,1.0
+doc_25,ans_25,Establish,,has_a,value,,Refund Method,1.0
+doc_25,ans_25,Value,,is_related_to,establish,,Refund Method,1.0
+doc_25,ans_25,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_25,ans_25,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_25,ans_25,Digital products,,are non-refundable, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Perishable goods,,are excluded, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Exceptions,,includes_warranty, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Exceptions,,writes_review, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Exceptions,,grants_refund, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Exceptions,,offers_feature, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Exceptions,,charges_tax, (Digital products are...),,#NAME?/Exceptions,1.0
+doc_25,ans_25,Perishable goods,,defines,excluded,,#NAME?/Exceptions,1.0
+doc_25,ans_25,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_25,ans_25,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_25,ans_25,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_25,ans_25,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_25,ans_25,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_33,ans_33,Items,,must be,unused,,Eligibility,1.0
+doc_33,ans_33,items,,return must be done within,30 days,DATE,Eligibility,1.0
+doc_33,ans_33,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_33,ans_33,processing_time_range,,supports_return,5-7 business days,DATE,#NAME?,1.0
+doc_33,ans_33,Digital products,,is_#NAME?/Exc,non-refundable,,#NAME?/Exceptions,1.0
+doc_33,ans_33,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_33,ans_33,Contact Information,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_33,ans_33,Contact Information,,uses_support_channel,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_41,ans_41,Items,,must be,unused,,Eligibility,1.0
+doc_41,ans_41,items,,must_be_returned_within_30_days,within_30_days,,Eligibility,1.0
+doc_41,ans_41,#NAME?,,includes_warranty,Digital products,,#NAME?,1.0
+doc_41,ans_41,#NAME?,,processes_data,5-7 business days,DATE,#NAME?,1.0
+doc_41,ans_41,#NAME?,,applies_to,business days,DATE,#NAME?,1.0
+doc_41,ans_41,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_41,ans_41,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_41,ans_41,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_41,ans_41,Contact,,owns_account, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_41,ans_41,Contact,,supports_return, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_41,ans_41,Contact,,includes_warranty, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_41,ans_41,Contact,,activates_subscription, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_41,ans_41,#NAME?,,Contact,support@example.com,,#NAME?/Contact,1.0
+doc_49,ans_49,Items,,must be,unused,,Eligibility,1.0
+doc_49,ans_49,items,,must be returned within 30 days,days,,Eligibility,1.0
+doc_49,ans_49,#NAME?,,includes_warranty,False,,#NAME?,1.0
+doc_49,ans_49,#NAME?,,processes_data,True,,#NAME?,1.0
+doc_49,ans_49,#NAME?,,supports_return,True,,#NAME?,1.0
+doc_49,ans_49,#NAME?,,applies_to,Digital products,,#NAME?,1.0
+doc_49,ans_49,#NAME?,,applies_to,Perishable goods,,#NAME?,1.0
+doc_49,ans_49,Digital products,,is_#NAME?/Exc,non-refundable,,#NAME?/Exceptions,1.0
+doc_49,ans_49,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_49,ans_49,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_49,ans_49,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_57,ans_57,Items,,has_requirement,unused,,Eligibility,1.0
+doc_57,ans_57,items,,must be used,unused,,Eligibility,1.0
+doc_57,ans_57,items,,must be returned,within 30 days,DATE,Eligibility,1.0
+doc_57,ans_57,return policy,,must be returned,within 30 days,DATE,Eligibility,1.0
+doc_57,ans_57,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_57,ans_57,#NAME?,,processing_time_range,5-7 business days,DATE,#NAME?,1.0
+doc_57,ans_57,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_57,ans_57,Perishable goods,,defines,excluded,,#NAME?/Exceptions,1.0
+doc_57,ans_57,Contact Information for Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_65,ans_65,Items,,must be,unused,,Eligibility,1.0
+doc_65,ans_65,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_65,ans_65,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_65,ans_65,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_65,ans_65,Digital products,,includes_warranty,false,,#NAME?/Exceptions,1.0
+doc_65,ans_65,Digital products are non-refundable,,grants_refund,no_refund,,#NAME?/Exceptions,1.0
+doc_65,ans_65,Digital products,,offers_feature,true,,#NAME?/Exceptions,1.0
+doc_65,ans_65,Perishable goods,,excluded_by,exceptions,,#NAME?/Exceptions,1.0
+doc_65,ans_65,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_65,ans_65,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_65,ans_65,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_65,ans_65,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_65,ans_65,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_73,ans_73,Items,,must be,unused,,Eligibility,1.0
+doc_73,ans_73,items,,must_be_returned_within_30_days,within 30 days,DATE,Eligibility,1.0
+doc_73,ans_73,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_73,ans_73,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_73,ans_73,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_73,ans_73,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_81,ans_81,Items,,has_requirement,unused,,Eligibility,1.0
+doc_81,ans_81,items,,must_be_returned_within_30_days,within_30_days,,Eligibility,1.0
+doc_81,ans_81,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_81,ans_81,Processing time for refunds,,supports_return,5-7 business days,DATE,#NAME?,1.0
+doc_81,ans_81,Digital products,,does not grant refund,non-returnable,,#NAME?/Exceptions,1.0
+doc_81,ans_81,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_81,ans_81,Contact Information,,uses_support_channel,support@example.com (+1-800-123-4567),,#NAME?/Contact,1.0
+doc_89,ans_89,Items,,has_requirement,unused,,Eligibility,1.0
+doc_89,ans_89,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_89,ans_89,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_89,ans_89,#NAME?,,processing_time_range,5-7 business days,DATE,#NAME?,1.0
+doc_89,ans_89,Digital products,,includes_warranty,false,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Digital products,,is_refundable,false,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Digital products,,grants_refund,false,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Perishable goods,,includes_warranty,false,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Perishable goods,,is_refundable,false,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Perishable goods,,grants_refund,false,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Perishable goods,,defines,excluded,,#NAME?/Exceptions,1.0
+doc_89,ans_89,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_89,ans_89,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_89,ans_89,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_89,ans_89,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_97,ans_97,Items,,has_requirement,unused,,Eligibility,1.0
+doc_97,ans_97,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_97,ans_97,#NAME?,,includes_warranty,False,,#NAME?,1.0
+doc_97,ans_97,#NAME?,,processes_data,True,,#NAME?,1.0
+doc_97,ans_97,#NAME?,,supports_return,True,,#NAME?,1.0
+doc_97,ans_97,#NAME?,,applies_to,Refund,,#NAME?,1.0
+doc_97,ans_97,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_97,ans_97,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_97,ans_97,Contact Information,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_105,ans_105,Items,,has_requirement,unused,,Eligibility,1.0
+doc_105,ans_105,items,,must be returned within 30 days,within 30 days,DATE,Eligibility,1.0
+doc_105,ans_105,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_105,ans_105,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_105,ans_105,Digital products,,do not grant refunds,are non-refundable,,#NAME?/Exceptions,1.0
+doc_105,ans_105,perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_105,ans_105,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_105,ans_105,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_105,ans_105,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_105,ans_105,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_113,ans_113,Items,,must be,unused,,Eligibility,1.0
+doc_113,ans_113,items,,must_be_returned_within,30 days,DATE,Eligibility,1.0
+doc_113,ans_113,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_113,ans_113,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_113,ans_113,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_113,ans_113,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_113,ans_113,Contact,,owns_account, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_113,ans_113,Contact,,supports_return, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_113,ans_113,Contact,,includes_warranty, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_113,ans_113,Contact,,activates_subscription, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_121,ans_121,Items,,has_requirement,unused,,Eligibility,1.0
+doc_121,ans_121,items must be unused,,supports_return,unused,,Eligibility,1.0
+doc_121,ans_121,must be returned within 30 days,DATE,supports_return,within 30 days,DATE,Eligibility,1.0
+doc_121,ans_121,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_121,ans_121,#NAME?,,includes_warranty,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_121,ans_121,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_121,ans_121,perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_121,ans_121,digital products,,non-refundable,exceptions,,#NAME?/Exceptions,1.0
+doc_121,ans_121,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_121,ans_121,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_121,ans_121,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_129,ans_129,Items,,must be,unused,,Eligibility,1.0
+doc_129,ans_129,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_129,ans_129,Catch industry,,includes,wait side skill,,Refund Method,1.0
+doc_129,ans_129,industry,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,difference,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,fund,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,Refund processing time,,supports_return,whole environment result,,Refund Method,1.0
+doc_129,ans_129,card,,supports_return,Refund,,Refund Method,1.0
+doc_129,ans_129,measure,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,result,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,environment,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,reduce,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,art (Catch industry wait ...),,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,bit (Catch industry wait ...),,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,sell,,writes_review,no review found,,Refund Method,1.0
+doc_129,ans_129,#NAME?,,includes_warranty,false,,#NAME?,1.0
+doc_129,ans_129,#NAME?,,processes_data,true,,#NAME?,1.0
+doc_129,ans_129,#NAME?,,supports_return,true,,#NAME?,1.0
+doc_129,ans_129,#NAME?,,applies_to,Order #26925,CARDINAL,#NAME?,1.0
+doc_129,ans_129,Digital products,,is_#NAME?/Exc,non-refundable,,#NAME?/Exceptions,1.0
+doc_129,ans_129,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_129,ans_129,Contact Information,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_137,ans_137,account,,owns,box (Sea television produ...),,Eligibility,1.0
+doc_137,ans_137,box (Sea television produ...),,contains,collection,,Eligibility,1.0
+doc_137,ans_137,collection of artworks,,owns_account,artistic edge,,Eligibility,1.0
+doc_137,ans_137,edge,,makes,move,,Eligibility,1.0
+doc_137,ans_137,Items,,must be,unused,,Eligibility,1.0
+doc_137,ans_137,items,,must be returned within 30 days,30 days,DATE,Eligibility,1.0
+doc_137,ans_137,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_137,ans_137,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_137,ans_137,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_137,ans_137,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_137,ans_137,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_137,ans_137,Contact Information,,uses_support_channel,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_145,ans_145,Items,,has_requirement,unused,,Eligibility,1.0
+doc_145,ans_145,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_145,ans_145,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_145,ans_145,Processing time for refunds,,applies_to,5-7 business days,DATE,#NAME?,1.0
+doc_145,ans_145,Digital products,,is_#NAME?/Exc,non-refundable,,#NAME?/Exceptions,1.0
+doc_145,ans_145,Perishable goods,,are,exceptions,,#NAME?/Exceptions,1.0
+doc_145,ans_145,support@example.com is a contact that uses support channel,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_145,ans_145,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_145,ans_145,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_145,ans_145,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_153,ans_153,Items,,must be,unused,,Eligibility,1.0
+doc_153,ans_153,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_153,ans_153,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_153,ans_153,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_153,ans_153,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_153,ans_153,Phone number of support contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_161,ans_161,Items,,has_requirement,unused,,Eligibility,1.0
+doc_161,ans_161,items,,must be used,unused,,Eligibility,1.0
+doc_161,ans_161,items,,returnable,true,,Eligibility,1.0
+doc_161,ans_161,order,,return policy,Return Policy for Order #40411,CARDINAL,Eligibility,1.0
+doc_161,ans_161,items,,return within,30 days,DATE,Eligibility,1.0
+doc_161,ans_161,Media push section,,defines,text,,Refund Method,1.0
+doc_161,ans_161,Happen skin suggest enjoy drop,,defines,text,,Refund Method,1.0
+doc_161,ans_161,Refund processing time,,defines,text,,Refund Method,1.0
+doc_161,ans_161,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_161,ans_161,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_161,ans_161,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_161,ans_161,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_161,ans_161,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_161,ans_161,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_161,ans_161,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_169,ans_169,Items,,has_requirement,unused,,Eligibility,1.0
+doc_169,ans_169,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_169,ans_169,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_169,ans_169,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_169,ans_169,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_169,ans_169,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_169,ans_169,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_177,ans_177,Items,,has_requirement,unused,,Eligibility,1.0
+doc_177,ans_177,Eligibility,,supports_return,Must be returned within 30 days,DATE,Eligibility,1.0
+doc_177,ans_177,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_177,ans_177,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_177,ans_177,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_177,ans_177,support@example.com,,supports_return,Phone: +1-800-123-4567,,#NAME?/Contact,1.0
+doc_177,ans_177,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_177,ans_177,Contact Information for Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_185,ans_185,Items,,must be,unused,,Eligibility,1.0
+doc_185,ans_185,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_185,ans_185,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_185,ans_185,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_185,ans_185,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_185,ans_185,Contact Support,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_185,ans_185,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_185,ans_185,Contact Information for Returns,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_193,ans_193,Items,,must be,unused,,Eligibility,1.0
+doc_193,ans_193,Eligibility,,supports_return,Must be returned within 30 days,DATE,Eligibility,1.0
+doc_193,ans_193,Eligibility,,must_be_unused,unused,,Eligibility,1.0
+doc_193,ans_193,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_193,ans_193,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_193,ans_193,perishable goods,,excluded by,return policy,,#NAME?/Exceptions,1.0
+doc_193,ans_193,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_193,ans_193,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_193,ans_193,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_193,ans_193,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_201,ans_201,Items,,has_requirement,unused,,Eligibility,1.0
+doc_201,ans_201,items that are unused,,supports_return,return policy for order #91618,CARDINAL,Eligibility,1.0
+doc_201,ans_201,must be returned within 30 days,DATE,grants_refund,order #91618,CARDINAL,Eligibility,1.0
+doc_201,ans_201,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_201,ans_201,Processing time for returns,,applies_to,5-7 business days,DATE,#NAME?,1.0
+doc_201,ans_201,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_201,ans_201,perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_201,ans_201,Contact support@example.com,,uses_support_channel,Phone: +1-800-123-4567,,#NAME?/Contact,1.0
+doc_201,ans_201,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_201,ans_201,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_209,ans_209,Items,,has_requirement,unused,,Eligibility,1.0
+doc_209,ans_209,items,,must_be_returned_within_30_days,within 30 days,DATE,Eligibility,1.0
+doc_209,ans_209,#NAME?,,includes_warranty,False,,#NAME?,1.0
+doc_209,ans_209,#NAME?,,processes_data,True,,#NAME?,1.0
+doc_209,ans_209,#NAME?,,supports_return,True,,#NAME?,1.0
+doc_209,ans_209,Refund processing time,,applies_to,Digital products,,#NAME?,1.0
+doc_209,ans_209,#NAME?,,applies_to,Perishable goods,,#NAME?,1.0
+doc_209,ans_209,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_209,ans_209,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_209,ans_209,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_209,ans_209,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_209,ans_209,Contact Information for Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_217,ans_217,Items,,has_requirement,unused,,Eligibility,1.0
+doc_217,ans_217,Eligibility,,supports_return,Must be returned within 30 days,DATE,Eligibility,1.0
+doc_217,ans_217,Eligibility,,must_be_unused,unused,,Eligibility,1.0
+doc_217,ans_217,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_217,ans_217,#NAME?,,processing_time_range,5-7 business days,DATE,#NAME?,1.0
+doc_217,ans_217,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_217,ans_217,Perishable goods,,defines,excluded,,#NAME?/Exceptions,1.0
+doc_217,ans_217,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_217,ans_217,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_225,ans_225,Items,,has_requirement,unused,,Eligibility,1.0
+doc_225,ans_225,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_225,ans_225,Refund processing time is 5-7 business days,DATE,applies_to,Processing time,,#NAME?,1.0
+doc_225,ans_225,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_225,ans_225,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_225,ans_225,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_225,ans_225,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_225,ans_225,Contact,,owns_account, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_225,ans_225,Contact,,supports_return, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_225,ans_225,Contact,,includes_warranty, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_225,ans_225,Contact,,activates_subscription, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_233,ans_233,Items,,has_requirement,unused,,Eligibility,1.0
+doc_233,ans_233,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_233,ans_233,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_233,ans_233,#NAME?,,processing_time_range,5-7 business days,DATE,#NAME?,1.0
+doc_233,ans_233,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_233,ans_233,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_233,ans_233,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_233,ans_233,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_241,ans_241,Items,,has_requirement,unused,,Eligibility,1.0
+doc_241,ans_241,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_241,ans_241,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_241,ans_241,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_241,ans_241,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_241,ans_241,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_241,ans_241,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_241,ans_241,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_249,ans_249,Items,,has_requirement,unused,,Eligibility,1.0
+doc_249,ans_249,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_249,ans_249,Refund processing time,,applies_to,5-7 business days,DATE,#NAME?,1.0
+doc_249,ans_249,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_249,ans_249,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_249,ans_249,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_249,ans_249,Contact Support,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_249,ans_249,Contact,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_249,ans_249,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_249,ans_249,Contact,,activates_subscription,support@example.com,,#NAME?/Contact,1.0
+doc_257,ans_257,Page,,has_section,Eligibility,,Eligibility,1.0
+doc_257,ans_257,Items,,must be,unused,,Eligibility,1.0
+doc_257,ans_257,Returned items within 30 days,DATE,supports_return,refund processing time,,Eligibility,1.0
+doc_257,ans_257,Refund,,has_section,#NAME?,,Eligibility,1.0
+doc_257,ans_257,Digital products,,are,non-refundable,,Eligibility,1.0
+doc_257,ans_257,Items,,requires,payment_method,,Eligibility,1.0
+doc_257,ans_257,Items,,has_requirement,unused,,Eligibility,1.0
+doc_257,ans_257,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_257,ans_257,#NAME?,,includes_warranty,false,,#NAME?,1.0
+doc_257,ans_257,#NAME?,,processes_data,true,,#NAME?,1.0
+doc_257,ans_257,#NAME?,,supports_return,true,,#NAME?,1.0
+doc_257,ans_257,#NAME?,,applies_to,digital products,,#NAME?,1.0
+doc_257,ans_257,#NAME?,,applies_to,perishable goods,,#NAME?,1.0
+doc_257,ans_257,Digital products are not refundable,,excluded_from,due to digital nature,,#NAME?/Exceptions,1.0
+doc_257,ans_257,perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_257,ans_257,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_257,ans_257,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_265,ans_265,Items,,has_requirement,unused,,Eligibility,1.0
+doc_265,ans_265,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_265,ans_265,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_265,ans_265,#NAME?,,processing_time,5-7 business days,DATE,#NAME?,1.0
+doc_265,ans_265,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_265,ans_265,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_265,ans_265,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_265,ans_265,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_273,ans_273,Items,,has_requirement,unused,,Eligibility,1.0
+doc_273,ans_273,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_273,ans_273,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_273,ans_273,Processing time for refunds,,applies_to,5-7 business days,DATE,#NAME?,1.0
+doc_273,ans_273,Digital products,,do not grant refunds,are non-refundable,,#NAME?/Exceptions,1.0
+doc_273,ans_273,Perishable goods,,are,exceptions,,#NAME?/Exceptions,1.0
+doc_273,ans_273,Contact Support,,supports_return,support@example.com,,#NAME?/Contact,1.0
+doc_273,ans_273,Contact,,owns_account, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_273,ans_273,Contact,,supports_return, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_273,ans_273,Contact,,includes_warranty, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_273,ans_273,Contact,,activates_subscription, (Email: support@examp...),,#NAME?/Contact,1.0
+doc_281,ans_281,Items,,must be,unused,,Eligibility,1.0
+doc_281,ans_281,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_281,ans_281,#NAME?,,applies_to,Processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_281,ans_281,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_281,ans_281,Perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_281,ans_281,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_281,ans_281,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0
+doc_289,ans_289,Items,,has_requirement,unused,,Eligibility,1.0
+doc_289,ans_289,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_289,ans_289,#NAME?,,includes_warranty,false,,#NAME?,1.0
+doc_289,ans_289,Refund processing time,,applies_to,5-7 business days,DATE,#NAME?,1.0
+doc_289,ans_289,#NAME?,,supports_return,true,,#NAME?,1.0
+doc_289,ans_289,Digital products,,are,non-refundable,,#NAME?/Exceptions,1.0
+doc_289,ans_289,perishable goods,,excluded by,exceptions,,#NAME?/Exceptions,1.0
+doc_289,ans_289,Contact support@example.com,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_289,ans_289,Contact,,owns_account,support@example.com,,#NAME?/Contact,1.0
+doc_289,ans_289,Contact,,includes_warranty,support@example.com,,#NAME?/Contact,1.0
+doc_297,ans_297,Items,,has_requirement,unused,,Eligibility,1.0
+doc_297,ans_297,items,,must_be_returned_within_days,30 (Must be returned wit...),CARDINAL,Eligibility,1.0
+doc_297,ans_297,Processing time for refunds,,applies_to,Refund processing time is 5-7 business days,DATE,#NAME?,1.0
+doc_297,ans_297,Digital products,,do not grant refunds,are non-refundable,,#NAME?/Exceptions,1.0
+doc_297,ans_297,Perishable goods,,includes,excluded,,#NAME?/Exceptions,1.0
+doc_297,ans_297,Contact,,uses_support_channel,support@example.com,,#NAME?/Contact,1.0
+doc_297,ans_297,Contact,,owns_account,+1-800-123-4567,,#NAME?/Contact,1.0

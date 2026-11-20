@@ -1,0 +1,9 @@
+{
+  "pipeline_version": "dermc_hierarchical",
+  "total_documents_processed": 50,
+  "total_oie_triplets": 4828,
+  "total_refined_triplets": 653,
+  "total_canonical_triplets": 653,
+  "processing_time_seconds": 4922.0415558815,
+  "triplets_per_document": 13.06
+}

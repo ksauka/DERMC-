@@ -1,0 +1,4 @@
+experiment,dataset_size,structural_quality_score,complete_triplets,incomplete_triplets,completeness_rate,mean_compatibility,unique_relations,compatibility_evaluated,oie_to_canonical_preservation,relations_lost_refinement,relations_lost_canonicalization,mean_domain_plausibility,high_plausibility_count,low_plausibility_count
+enhanced_dermc_output_test10,10,1.0,195,0,1.0,7.24,38,50,0.47783251231527096,106,0,8.333333333333334,28,1
+enhanced_dermc_output_test20,20,1.0,281,0,1.0,7.68,37,50,0.397887323943662,171,0,8.333333333333334,28,1
+enhanced_dermc_output_test50,50,1.0,620,0,1.0,7.4,34,50,0.4378238341968912,217,0,8.566666666666666,30,0

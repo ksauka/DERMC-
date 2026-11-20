@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "enhanced_with_redundancy_reduction_hierarchical",
+  "total_documents_processed": 20,
+  "total_oie_triplets": 1991,
+  "total_refined_triplets": 281,
+  "total_canonical_triplets": 281,
+  "redundancy_reduction": {
+    "oie_to_refined_reduction": 1710,
+    "refined_to_canonical_reduction": 0
+  },
+  "enhancement_features": [
+    "semantic_similarity_based_merging",
+    "aggressive_quality_filtering",
+    "entity_enhancement",
+    "relation_canonicalization"
+  ]
+}

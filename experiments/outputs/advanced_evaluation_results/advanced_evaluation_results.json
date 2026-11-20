@@ -1,0 +1,500 @@
+{
+  "10": {
+    "dataset_size": 10,
+    "stages": {
+      "oie": {
+        "triplet_count": 1001,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 5.5,
+            "std": 2.640075756488817,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 8.0,
+            "std": 0.0,
+            "min": 8.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.833333333333334,
+            "std": 0.8800252521629393,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.8000000000000002,
+          "relation_diversity": 0.20279720279720279
+        }
+      },
+      "refined": {
+        "triplet_count": 195,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 4.4,
+            "std": 1.865475810617763,
+            "min": "3",
+            "max": "9"
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 8.0,
+            "std": 0.0,
+            "min": 8.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.466666666666666,
+            "std": 0.621825270205921,
+            "min": 6.0,
+            "max": 8.0
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.8,
+          "relation_diversity": 0.5076923076923077
+        }
+      },
+      "canonical": {
+        "triplet_count": 195,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 5.58,
+            "std": 2.6539781461044476,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 8.0,
+            "std": 0.0,
+            "min": 8.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.86,
+            "std": 0.8846593820348161,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.8,
+          "relation_diversity": 0.5076923076923077
+        }
+      }
+    },
+    "progression": {
+      "oie": {
+        "count": 1001,
+        "unique_subjects": 177,
+        "unique_relations": 203,
+        "unique_objects": 326,
+        "avg_subject_length": 1.8661338661338662,
+        "avg_relation_length": 1.2897102897102897,
+        "avg_object_length": 1.8181818181818181
+      },
+      "refined": {
+        "count": 195,
+        "unique_subjects": 79,
+        "unique_relations": 99,
+        "unique_objects": 140,
+        "avg_subject_length": 1.8923076923076922,
+        "avg_relation_length": 1.3384615384615384,
+        "avg_object_length": 2.246153846153846
+      },
+      "canonical": {
+        "count": 195,
+        "unique_subjects": 76,
+        "unique_relations": 99,
+        "unique_objects": 140,
+        "avg_subject_length": 1.8666666666666667,
+        "avg_relation_length": 1.3384615384615384,
+        "avg_object_length": 2.241025641025641
+      },
+      "oie_to_refined_relation_retention": {
+        "overlap_count": 97,
+        "retention_rate": 0.47783251231527096
+      },
+      "refined_to_canonical_relation_retention": {
+        "overlap_count": 99,
+        "retention_rate": 1.0
+      }
+    },
+    "summary": {
+      "final_triplet_count": 195,
+      "overall_quality": 6.86,
+      "shacl_conformance": true,
+      "structural_completeness": 1.0,
+      "pipeline_stages": 3
+    }
+  },
+  "20": {
+    "dataset_size": 20,
+    "stages": {
+      "oie": {
+        "triplet_count": 1991,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 4.82,
+            "std": 2.251133048044917,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 7.88,
+            "std": 0.5878775382679627,
+            "min": 5.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.566666666666666,
+            "std": 0.7187952884282609,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.8,
+          "relation_diversity": 0.14264188849824208
+        }
+      },
+      "refined": {
+        "triplet_count": 281,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 4.68,
+            "std": 1.9742340286804905,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 8.0,
+            "std": 0.0,
+            "min": 8.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.559999999999999,
+            "std": 0.6580780095601636,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.7999999999999998,
+          "relation_diversity": 0.4306049822064057
+        }
+      },
+      "canonical": {
+        "triplet_count": 281,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 5.08,
+            "std": 2.2789471253190583,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 7.94,
+            "std": 0.42,
+            "min": 5.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.673333333333334,
+            "std": 0.7468154613646758,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.7999999999999998,
+          "relation_diversity": 0.4306049822064057
+        }
+      }
+    },
+    "progression": {
+      "oie": {
+        "count": 1991,
+        "unique_subjects": 247,
+        "unique_relations": 284,
+        "unique_objects": 443,
+        "avg_subject_length": 1.8538422903063787,
+        "avg_relation_length": 1.2626820693119036,
+        "avg_object_length": 1.7734806629834254
+      },
+      "refined": {
+        "count": 281,
+        "unique_subjects": 107,
+        "unique_relations": 121,
+        "unique_objects": 170,
+        "avg_subject_length": 1.9181494661921707,
+        "avg_relation_length": 1.2313167259786477,
+        "avg_object_length": 2.078291814946619
+      },
+      "canonical": {
+        "count": 281,
+        "unique_subjects": 102,
+        "unique_relations": 121,
+        "unique_objects": 168,
+        "avg_subject_length": 1.8718861209964412,
+        "avg_relation_length": 1.2313167259786477,
+        "avg_object_length": 2.0640569395017794
+      },
+      "oie_to_refined_relation_retention": {
+        "overlap_count": 113,
+        "retention_rate": 0.397887323943662
+      },
+      "refined_to_canonical_relation_retention": {
+        "overlap_count": 121,
+        "retention_rate": 1.0
+      }
+    },
+    "summary": {
+      "final_triplet_count": 281,
+      "overall_quality": 6.673333333333334,
+      "shacl_conformance": true,
+      "structural_completeness": 1.0,
+      "pipeline_stages": 3
+    }
+  },
+  "50": {
+    "dataset_size": 50,
+    "stages": {
+      "oie": {
+        "triplet_count": 4899,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 4.88,
+            "std": 2.597229292919668,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 8.0,
+            "std": 0.0,
+            "min": 8.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.626666666666668,
+            "std": 0.8657430976398895,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.7999999999999999,
+          "relation_diversity": 0.07879159012043274
+        }
+      },
+      "refined": {
+        "triplet_count": 620,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 6.04,
+            "std": 2.870261312145638,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 7.94,
+            "std": 0.4200000000000001,
+            "min": 5.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.993333333333332,
+            "std": 0.9392431941610108,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.8,
+          "relation_diversity": 0.2838709677419355
+        }
+      },
+      "canonical": {
+        "triplet_count": 620,
+        "llm_evaluation": {
+          "semantic_coherence": {
+            "mean": 5.48,
+            "std": 2.707323401442835,
+            "min": 3.0,
+            "max": 10.0
+          },
+          "factual_accuracy": {
+            "mean": 7.0,
+            "std": 0.0,
+            "min": 7.0,
+            "max": 7.0
+          },
+          "relationship_clarity": {
+            "mean": 8.0,
+            "std": 0.0,
+            "min": 8.0,
+            "max": 8.0
+          },
+          "overall_quality": {
+            "mean": 6.826666666666666,
+            "std": 0.9024411338142784,
+            "min": 6.0,
+            "max": 8.333333333333334
+          }
+        },
+        "shacl_validation": {
+          "conforms": true,
+          "report": "SHACL validation skipped",
+          "violations": []
+        },
+        "structural_metrics": {
+          "completeness": 1.0,
+          "avg_confidence": 0.8,
+          "relation_diversity": 0.2838709677419355
+        }
+      }
+    },
+    "progression": {
+      "oie": {
+        "count": 4899,
+        "unique_subjects": 309,
+        "unique_relations": 386,
+        "unique_objects": 620,
+        "avg_subject_length": 1.909573382322923,
+        "avg_relation_length": 1.2663808940600123,
+        "avg_object_length": 1.8628291488058788
+      },
+      "refined": {
+        "count": 620,
+        "unique_subjects": 149,
+        "unique_relations": 176,
+        "unique_objects": 265,
+        "avg_subject_length": 2.075806451612903,
+        "avg_relation_length": 1.2967741935483872,
+        "avg_object_length": 2.2451612903225806
+      },
+      "canonical": {
+        "count": 620,
+        "unique_subjects": 144,
+        "unique_relations": 176,
+        "unique_objects": 262,
+        "avg_subject_length": 2.0451612903225804,
+        "avg_relation_length": 1.2967741935483872,
+        "avg_object_length": 2.2435483870967743
+      },
+      "oie_to_refined_relation_retention": {
+        "overlap_count": 169,
+        "retention_rate": 0.4378238341968912
+      },
+      "refined_to_canonical_relation_retention": {
+        "overlap_count": 176,
+        "retention_rate": 1.0
+      }
+    },
+    "summary": {
+      "final_triplet_count": 620,
+      "overall_quality": 6.826666666666666,
+      "shacl_conformance": true,
+      "structural_completeness": 1.0,
+      "pipeline_stages": 3
+    }
+  }
+}
